@@ -1,0 +1,12 @@
+{
+  "url": "/api/WordsAction/",
+  "next": "/api/WordsIssue/",
+  "prev": "/api/VoidSchema/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/WordsIssue/",
+    "/api/BaseValidation/",
+    "/api/WordsIssue/",
+    "/api/words/"
+  ]
+}

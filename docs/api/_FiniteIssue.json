@@ -1,0 +1,8 @@
+{
+  "url": "/api/FiniteIssue/",
+  "next": "/api/FirstTupleItem/",
+  "prev": "/api/FiniteAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "url": "/api/sortItems/",
+  "next": "/api/startsWith/",
+  "prev": "/api/someItem/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/SortItemsAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

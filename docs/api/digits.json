@@ -1,0 +1,17 @@
+{
+  "url": "/api/digits/",
+  "next": "/api/email/",
+  "prev": "/api/description/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/DigitsIssue/",
+    "/api/DigitsAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

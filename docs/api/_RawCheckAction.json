@@ -1,0 +1,10 @@
+{
+  "url": "/api/RawCheckAction/",
+  "next": "/api/RawCheckActionAsync/",
+  "prev": "/api/PromiseSchema/",
+  "links": [
+    "/api/BaseValidation/",
+    "/api/RawCheckIssue/",
+    "/api/rawCheck/"
+  ]
+}

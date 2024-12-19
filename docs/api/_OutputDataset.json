@@ -1,0 +1,11 @@
+{
+  "url": "/api/OutputDataset/",
+  "next": "/api/Parser/",
+  "prev": "/api/OptionalSchemaAsync/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/SuccessDataset/",
+    "/api/PartialDataset/",
+    "/api/FailureDataset/"
+  ]
+}

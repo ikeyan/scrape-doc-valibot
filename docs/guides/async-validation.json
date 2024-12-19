@@ -1,0 +1,11 @@
+{
+  "url": "/guides/async-validation/",
+  "next": "/guides/json-schema/",
+  "prev": "/guides/naming-convention/",
+  "links": [
+    "/api/pipe/",
+    "/api/pipeAsync/",
+    "/api/object/",
+    "/api/objectAsync/"
+  ]
+}

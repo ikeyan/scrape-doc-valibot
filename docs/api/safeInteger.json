@@ -1,0 +1,17 @@
+{
+  "url": "/api/safeInteger/",
+  "next": "/api/size/",
+  "prev": "/api/returns/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/SafeIntegerIssue/",
+    "/api/SafeIntegerAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/number/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

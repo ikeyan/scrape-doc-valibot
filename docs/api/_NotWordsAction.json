@@ -1,0 +1,12 @@
+{
+  "url": "/api/NotWordsAction/",
+  "next": "/api/NotWordsIssue/",
+  "prev": "/api/NotValueIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NotWordsIssue/",
+    "/api/BaseValidation/",
+    "/api/NotWordsIssue/",
+    "/api/notWords/"
+  ]
+}

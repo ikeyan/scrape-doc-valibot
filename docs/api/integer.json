@@ -1,0 +1,17 @@
+{
+  "url": "/api/integer/",
+  "next": "/api/ip/",
+  "prev": "/api/includes/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/IntegerIssue/",
+    "/api/IntegerAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/number/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

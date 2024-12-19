@@ -1,0 +1,10 @@
+{
+  "url": "/api/RawTransformAction/",
+  "next": "/api/RawTransformIssue/",
+  "prev": "/api/RawCheckIssue/",
+  "links": [
+    "/api/BaseTransformation/",
+    "/api/RawTransformIssue/",
+    "/api/rawTransform/"
+  ]
+}

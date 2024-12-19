@@ -1,0 +1,13 @@
+{
+  "url": "/api/MaxLengthAction/",
+  "next": "/api/MaxLengthIssue/",
+  "prev": "/api/MaxGraphemesIssue/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/MaxLengthIssue/",
+    "/api/BaseValidation/",
+    "/api/MaxLengthIssue/",
+    "/api/maxLength/"
+  ]
+}

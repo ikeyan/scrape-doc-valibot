@@ -1,0 +1,8 @@
+{
+  "url": "/api/GenericMetadata/",
+  "next": "/api/GenericSchema/",
+  "prev": "/api/GenericIssue/",
+  "links": [
+    "/api/BaseMetadata/"
+  ]
+}

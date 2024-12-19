@@ -1,0 +1,20 @@
+{
+  "url": "/guides/other/",
+  "next": "/guides/naming-convention/",
+  "prev": "/guides/intersections/",
+  "links": [
+    "/api/literal/",
+    "/api/instance/",
+    "/api/custom/",
+    "/api/lazy/",
+    "/api/literal/",
+    "/api/blob/",
+    "/api/date/",
+    "/api/map/",
+    "/api/set/",
+    "/api/instance/",
+    "/api/custom/",
+    "/api/lazy/",
+    "/api/GenericSchema/"
+  ]
+}

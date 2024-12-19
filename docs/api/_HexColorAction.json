@@ -1,0 +1,12 @@
+{
+  "url": "/api/HexColorAction/",
+  "next": "/api/HexColorIssue/",
+  "prev": "/api/HexadecimalIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/HexColorIssue/",
+    "/api/BaseValidation/",
+    "/api/HexColorIssue/",
+    "/api/hexColor/"
+  ]
+}

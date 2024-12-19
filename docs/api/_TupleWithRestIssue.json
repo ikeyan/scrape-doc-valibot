@@ -1,0 +1,8 @@
+{
+  "url": "/api/TupleWithRestIssue/",
+  "next": "/api/TupleWithRestSchema/",
+  "prev": "/api/TupleSchemaAsync/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

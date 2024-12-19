@@ -1,0 +1,17 @@
+{
+  "url": "/api/isoTimeSecond/",
+  "next": "/api/isoTimestamp/",
+  "prev": "/api/isoTime/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/IsoTimeSecondIssue/",
+    "/api/IsoTimeSecondAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

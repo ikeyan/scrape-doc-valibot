@@ -1,0 +1,8 @@
+{
+  "url": "/api/MultipleOfIssue/",
+  "next": "/api/NanIssue/",
+  "prev": "/api/MultipleOfAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

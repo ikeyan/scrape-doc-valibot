@@ -1,0 +1,10 @@
+{
+  "url": "/api/rawCheck/Context/",
+  "links": [
+    "/api/OutputDataset/",
+    "/api/BaseIssue/",
+    "/api/Config/",
+    "/api/RawCheckIssue/",
+    "/api/rawCheck/AddIssue/"
+  ]
+}

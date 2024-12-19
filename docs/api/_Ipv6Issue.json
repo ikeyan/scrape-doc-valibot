@@ -1,0 +1,8 @@
+{
+  "url": "/api/Ipv6Issue/",
+  "next": "/api/IsoDateAction/",
+  "prev": "/api/Ipv6Action/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

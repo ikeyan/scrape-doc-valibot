@@ -1,0 +1,17 @@
+{
+  "url": "/api/imei/",
+  "next": "/api/includes/",
+  "prev": "/api/hexColor/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/ImeiIssue/",
+    "/api/ImeiAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

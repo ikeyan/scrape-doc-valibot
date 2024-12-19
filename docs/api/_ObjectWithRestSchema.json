@@ -1,0 +1,20 @@
+{
+  "url": "/api/ObjectWithRestSchema/",
+  "next": "/api/ObjectWithRestSchemaAsync/",
+  "prev": "/api/ObjectWithRestIssue/",
+  "links": [
+    "/api/ObjectEntries/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/ObjectWithRestIssue/",
+    "/api/BaseSchema/",
+    "/api/InferObjectInput/",
+    "/api/InferInput/",
+    "/api/InferObjectOutput/",
+    "/api/InferInput/",
+    "/api/ObjectWithRestIssue/",
+    "/api/InferObjectIssue/",
+    "/api/objectWithRest/"
+  ]
+}

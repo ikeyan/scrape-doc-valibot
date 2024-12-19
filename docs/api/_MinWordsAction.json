@@ -1,0 +1,12 @@
+{
+  "url": "/api/MinWordsAction/",
+  "next": "/api/MinWordsIssue/",
+  "prev": "/api/MinValueIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MinWordsAction/",
+    "/api/BaseValidation/",
+    "/api/MinWordsAction/",
+    "/api/minWords/"
+  ]
+}

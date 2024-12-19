@@ -1,0 +1,16 @@
+{
+  "url": "/api/normalize/",
+  "next": "/api/notBytes/",
+  "prev": "/api/nonEmpty/",
+  "links": [
+    "/api/NormalizeForm/",
+    "/api/NormalizeAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

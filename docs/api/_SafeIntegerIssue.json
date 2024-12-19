@@ -1,0 +1,8 @@
+{
+  "url": "/api/SafeIntegerIssue/",
+  "next": "/api/SafeParser/",
+  "prev": "/api/SafeIntegerAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

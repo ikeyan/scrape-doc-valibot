@@ -1,0 +1,17 @@
+{
+  "url": "/api/ulid/",
+  "next": "/api/url/",
+  "prev": "/api/trimStart/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/UlidIssue/",
+    "/api/UlidAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

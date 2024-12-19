@@ -1,0 +1,8 @@
+{
+  "url": "/api/IntersectIssue/",
+  "next": "/api/IntersectOptions/",
+  "prev": "/api/IntegerIssue/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

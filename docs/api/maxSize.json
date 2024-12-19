@@ -1,0 +1,22 @@
+{
+  "url": "/api/maxSize/",
+  "next": "/api/maxValue/",
+  "prev": "/api/maxLength/",
+  "links": [
+    "/api/SizeInput/",
+    "/api/ErrorMessage/",
+    "/api/MaxSizeIssue/",
+    "/api/MaxSizeAction/",
+    "/api/any/",
+    "/api/blob/",
+    "/api/custom/",
+    "/api/file/",
+    "/api/instance/",
+    "/api/map/",
+    "/api/set/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

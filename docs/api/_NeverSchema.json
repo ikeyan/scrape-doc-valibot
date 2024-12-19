@@ -1,0 +1,12 @@
+{
+  "url": "/api/NeverSchema/",
+  "next": "/api/NonEmptyAction/",
+  "prev": "/api/NeverIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NeverIssue/",
+    "/api/BaseSchema/",
+    "/api/NeverIssue/",
+    "/api/never/"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "url": "/guides/arrays/",
+  "next": "/guides/optionals/",
+  "prev": "/guides/objects/",
+  "links": [
+    "/api/array/",
+    "/api/tuple/",
+    "/api/tuple/",
+    "/api/array/",
+    "/api/array/",
+    "/api/tuple/",
+    "/api/tuple/",
+    "/api/looseTuple/",
+    "/api/strictTuple/",
+    "/api/looseTuple/",
+    "/api/strictTuple/",
+    "/api/tupleWithRest/"
+  ]
+}

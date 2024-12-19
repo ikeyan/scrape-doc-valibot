@@ -1,0 +1,22 @@
+{
+  "url": "/api/value/",
+  "next": "/api/words/",
+  "prev": "/api/uuid/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/ErrorMessage/",
+    "/api/ValueIssue/",
+    "/api/ValueAction/",
+    "/api/any/",
+    "/api/bigint/",
+    "/api/boolean/",
+    "/api/custom/",
+    "/api/date/",
+    "/api/number/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

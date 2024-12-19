@@ -1,0 +1,8 @@
+{
+  "url": "/api/PicklistIssue/",
+  "next": "/api/PicklistSchema/",
+  "prev": "/api/PicklistOptions/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

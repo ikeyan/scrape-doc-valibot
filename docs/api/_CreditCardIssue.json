@@ -1,0 +1,8 @@
+{
+  "url": "/api/CreditCardIssue/",
+  "next": "/api/Cuid2Action/",
+  "prev": "/api/CreditCardAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

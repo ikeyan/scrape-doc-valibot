@@ -1,0 +1,12 @@
+{
+  "url": "/api/FiniteAction/",
+  "next": "/api/FiniteIssue/",
+  "prev": "/api/FindItemAction/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/FiniteIssue/",
+    "/api/BaseValidation/",
+    "/api/FiniteIssue/",
+    "/api/finite/"
+  ]
+}

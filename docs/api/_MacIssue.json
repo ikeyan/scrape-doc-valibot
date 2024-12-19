@@ -1,0 +1,8 @@
+{
+  "url": "/api/MacIssue/",
+  "next": "/api/MapIssue/",
+  "prev": "/api/MacAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

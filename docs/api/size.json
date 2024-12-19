@@ -1,0 +1,21 @@
+{
+  "url": "/api/size/",
+  "next": "/api/someItem/",
+  "prev": "/api/safeInteger/",
+  "links": [
+    "/api/SizeInput/",
+    "/api/ErrorMessage/",
+    "/api/SizeIssue/",
+    "/api/SizeAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/string/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "/api/minWords/",
+  "next": "/api/multipleOf/",
+  "prev": "/api/minValue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MinWordsIssue/",
+    "/api/MinWordsAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

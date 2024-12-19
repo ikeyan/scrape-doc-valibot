@@ -1,0 +1,12 @@
+{
+  "url": "/api/NotGraphemesAction/",
+  "next": "/api/NotGraphemesIssue/",
+  "prev": "/api/NotBytesIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NotGraphemesIssue/",
+    "/api/BaseValidation/",
+    "/api/NotGraphemesIssue/",
+    "/api/notGraphemes/"
+  ]
+}

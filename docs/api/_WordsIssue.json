@@ -1,0 +1,7 @@
+{
+  "url": "/api/WordsIssue/",
+  "prev": "/api/WordsAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

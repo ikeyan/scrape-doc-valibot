@@ -1,0 +1,8 @@
+{
+  "url": "/api/NonOptionalIssue/",
+  "next": "/api/NonOptionalSchema/",
+  "prev": "/api/NonOptional/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

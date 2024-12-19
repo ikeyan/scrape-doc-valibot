@@ -1,0 +1,8 @@
+{
+  "url": "/api/UuidIssue/",
+  "next": "/api/ValueAction/",
+  "prev": "/api/UuidAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

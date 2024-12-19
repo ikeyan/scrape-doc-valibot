@@ -1,0 +1,8 @@
+{
+  "url": "/api/NonNullableIssue/",
+  "next": "/api/NonNullableSchema/",
+  "prev": "/api/NonNullable/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

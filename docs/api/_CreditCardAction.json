@@ -1,0 +1,11 @@
+{
+  "url": "/api/CreditCardAction/",
+  "next": "/api/CreditCardIssue/",
+  "prev": "/api/ContentRequirement/",
+  "links": [
+    "/api/CreditCardIssue/",
+    "/api/BaseValidation/",
+    "/api/CreditCardIssue/",
+    "/api/creditCard/"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "/api/TupleWithRestSchemaAsync/",
+  "next": "/api/UlidAction/",
+  "prev": "/api/TupleWithRestSchema/",
+  "links": [
+    "/api/TupleItemsAsync/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/TupleWithRestIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/InferTupleInput/",
+    "/api/InferInput/",
+    "/api/InferTupleOutput/",
+    "/api/InferOutput/",
+    "/api/TupleWithRestIssue/",
+    "/api/InferTupleIssue/",
+    "/api/InferIssue/",
+    "/api/tupleWithRestAsync/"
+  ]
+}

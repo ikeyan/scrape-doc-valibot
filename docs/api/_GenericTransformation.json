@@ -1,0 +1,9 @@
+{
+  "url": "/api/GenericTransformation/",
+  "next": "/api/GenericTransformationAsync/",
+  "prev": "/api/GenericSchemaAsync/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/BaseTransformation/"
+  ]
+}

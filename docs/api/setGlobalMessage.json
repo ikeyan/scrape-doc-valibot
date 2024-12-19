@@ -1,0 +1,9 @@
+{
+  "url": "/api/setGlobalMessage/",
+  "next": "/api/setSchemaMessage/",
+  "prev": "/api/setGlobalConfig/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BaseIssue/"
+  ]
+}

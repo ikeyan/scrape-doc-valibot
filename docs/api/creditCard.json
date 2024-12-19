@@ -1,0 +1,17 @@
+{
+  "url": "/api/creditCard/",
+  "next": "/api/cuid2/",
+  "prev": "/api/checkItems/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/CreditCardIssue/",
+    "/api/CreditCardAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

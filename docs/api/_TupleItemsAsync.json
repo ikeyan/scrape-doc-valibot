@@ -1,0 +1,12 @@
+{
+  "url": "/api/TupleItemsAsync/",
+  "next": "/api/TupleSchema/",
+  "prev": "/api/TupleItems/",
+  "links": [
+    "/api/MaybeReadonly/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/"
+  ]
+}

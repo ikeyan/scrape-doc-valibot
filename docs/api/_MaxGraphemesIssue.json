@@ -1,0 +1,8 @@
+{
+  "url": "/api/MaxGraphemesIssue/",
+  "next": "/api/MaxLengthAction/",
+  "prev": "/api/MaxGraphemesAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

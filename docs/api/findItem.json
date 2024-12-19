@@ -1,0 +1,19 @@
+{
+  "url": "/api/findItem/",
+  "next": "/api/finite/",
+  "prev": "/api/filterItems/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/ArrayRequirement/",
+    "/api/FindItemAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "/api/isoDate/",
+  "next": "/api/isoDateTime/",
+  "prev": "/api/ipv6/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/IsoDateIssue/",
+    "/api/IsoDateAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

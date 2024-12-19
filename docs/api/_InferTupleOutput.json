@@ -1,0 +1,6 @@
+{
+  "url": "/api/InferTupleOutput/",
+  "next": "/api/InferVariantIssue/",
+  "prev": "/api/InferTupleIssue/",
+  "links": []
+}

@@ -1,0 +1,11 @@
+{
+  "url": "/api/SchemaWithoutPipe/",
+  "next": "/api/SchemaWithPartial/",
+  "prev": "/api/SchemaWithFallbackAsync/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/"
+  ]
+}

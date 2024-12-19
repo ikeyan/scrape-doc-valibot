@@ -1,0 +1,13 @@
+{
+  "url": "/api/LiteralSchema/",
+  "next": "/api/Mac48Action/",
+  "prev": "/api/LooseTupleSchemaAsync/",
+  "links": [
+    "/api/Literal/",
+    "/api/ErrorMessage/",
+    "/api/LiteralIssue/",
+    "/api/BaseSchema/",
+    "/api/LiteralIssue/",
+    "/api/literal/"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "url": "/api/SymbolSchema/",
+  "next": "/api/TitleAction/",
+  "prev": "/api/SymbolIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BaseSchema/",
+    "/api/SymbolIssue/",
+    "/api/symbol/"
+  ]
+}

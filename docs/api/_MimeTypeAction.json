@@ -1,0 +1,12 @@
+{
+  "url": "/api/MimeTypeAction/",
+  "next": "/api/MimeTypeIssue/",
+  "prev": "/api/MetadataAction/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MimeTypeAction/",
+    "/api/BaseValidation/",
+    "/api/MimeTypeIssue/",
+    "/api/mimeType/"
+  ]
+}

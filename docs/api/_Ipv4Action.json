@@ -1,0 +1,12 @@
+{
+  "url": "/api/Ipv4Action/",
+  "next": "/api/Ipv4Issue/",
+  "prev": "/api/IpIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/Ipv4Issue/",
+    "/api/BaseValidation/",
+    "/api/Ipv4Issue/",
+    "/api/ipv4/"
+  ]
+}

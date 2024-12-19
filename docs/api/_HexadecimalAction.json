@@ -1,0 +1,12 @@
+{
+  "url": "/api/HexadecimalAction/",
+  "next": "/api/HexadecimalIssue/",
+  "prev": "/api/HashType/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/HexadecimalIssue/",
+    "/api/BaseValidation/",
+    "/api/HexadecimalIssue/",
+    "/api/hexadecimal/"
+  ]
+}

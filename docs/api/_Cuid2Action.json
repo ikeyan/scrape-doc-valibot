@@ -1,0 +1,11 @@
+{
+  "url": "/api/Cuid2Action/",
+  "next": "/api/Cuid2Issue/",
+  "prev": "/api/CreditCardIssue/",
+  "links": [
+    "/api/Cuid2Issue/",
+    "/api/BaseValidation/",
+    "/api/Cuid2Issue/",
+    "/api/cuid2/"
+  ]
+}

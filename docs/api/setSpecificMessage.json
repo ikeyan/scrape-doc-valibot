@@ -1,0 +1,10 @@
+{
+  "url": "/api/setSpecificMessage/",
+  "next": "/api/entriesFromList/",
+  "prev": "/api/setSchemaMessage/",
+  "links": [
+    "/api/Reference/",
+    "/api/ErrorMessage/",
+    "/api/InferIssue/"
+  ]
+}

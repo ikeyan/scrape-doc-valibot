@@ -1,0 +1,12 @@
+{
+  "url": "/api/UlidAction/",
+  "next": "/api/UlidIssue/",
+  "prev": "/api/TupleWithRestSchemaAsync/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/UlidIssue/",
+    "/api/BaseValidation/",
+    "/api/UlidIssue/",
+    "/api/ulid/"
+  ]
+}

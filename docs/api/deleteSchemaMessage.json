@@ -1,0 +1,6 @@
+{
+  "url": "/api/deleteSchemaMessage/",
+  "next": "/api/deleteSpecificMessage/",
+  "prev": "/api/deleteGlobalMessage/",
+  "links": []
+}

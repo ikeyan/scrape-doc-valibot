@@ -1,0 +1,11 @@
+{
+  "url": "/api/BrandAction/",
+  "next": "/api/BrandName/",
+  "prev": "/api/Brand/",
+  "links": [
+    "/api/BrandName/",
+    "/api/BaseTransformation/",
+    "/api/Brand/",
+    "/api/brand/"
+  ]
+}

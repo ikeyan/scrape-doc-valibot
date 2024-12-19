@@ -1,0 +1,16 @@
+{
+  "url": "/api/LooseTupleSchema/",
+  "next": "/api/LooseTupleSchemaAsync/",
+  "prev": "/api/LooseTupleIssue/",
+  "links": [
+    "/api/TupleItems/",
+    "/api/ErrorMessage/",
+    "/api/LooseTupleIssue/",
+    "/api/BaseSchema/",
+    "/api/InferTupleInput/",
+    "/api/InferTupleOutput/",
+    "/api/LooseTupleIssue/",
+    "/api/InferTupleIssue/",
+    "/api/looseTuple/"
+  ]
+}

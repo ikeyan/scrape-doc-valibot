@@ -1,0 +1,8 @@
+{
+  "url": "/api/OctalIssue/",
+  "next": "/api/OptionalSchema/",
+  "prev": "/api/OctalAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

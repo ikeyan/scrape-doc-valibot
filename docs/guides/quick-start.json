@@ -1,0 +1,10 @@
+{
+  "url": "/guides/quick-start/",
+  "next": "/guides/use-cases/",
+  "prev": "/guides/installation/",
+  "links": [
+    "/api/pipe/",
+    "/guides/pipelines/",
+    "/guides/internationalization/"
+  ]
+}

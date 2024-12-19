@@ -1,0 +1,13 @@
+{
+  "url": "/api/NotSizeAction/",
+  "next": "/api/NotSizeIssue/",
+  "prev": "/api/NotLengthIssue/",
+  "links": [
+    "/api/SizeInput/",
+    "/api/ErrorMessage/",
+    "/api/NotSizeIssue/",
+    "/api/BaseValidation/",
+    "/api/NotSizeIssue/",
+    "/api/notSize/"
+  ]
+}

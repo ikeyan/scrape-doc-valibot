@@ -1,0 +1,9 @@
+{
+  "url": "/api/VariantOptions/",
+  "next": "/api/VariantOptionsAsync/",
+  "prev": "/api/VariantIssue/",
+  "links": [
+    "/api/MaybeReadonly/",
+    "/api/VariantOption/"
+  ]
+}

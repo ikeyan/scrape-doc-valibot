@@ -1,0 +1,20 @@
+{
+  "url": "/api/MapSchema/",
+  "next": "/api/MapSchemaAsync/",
+  "prev": "/api/MapPathItem/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/MapIssue/",
+    "/api/BaseSchema/",
+    "/api/InferMapInput/",
+    "/api/InferMapOutput/",
+    "/api/MapIssue/",
+    "/api/InferIssue/",
+    "/api/InferIssue/",
+    "/api/map/"
+  ]
+}

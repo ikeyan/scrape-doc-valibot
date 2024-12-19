@@ -1,0 +1,10 @@
+{
+  "url": "/api/SortItemsAction/",
+  "next": "/api/StartsWithAction/",
+  "prev": "/api/SomeItemIssue/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/BaseTransformation/",
+    "/api/sortItems/"
+  ]
+}

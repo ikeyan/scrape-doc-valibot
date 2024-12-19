@@ -1,0 +1,12 @@
+{
+  "url": "/api/CustomSchema/",
+  "next": "/api/CustomSchemaAsync/",
+  "prev": "/api/CustomIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/CustomIssue/",
+    "/api/BaseSchema/",
+    "/api/CustomIssue/",
+    "/api/custom/"
+  ]
+}

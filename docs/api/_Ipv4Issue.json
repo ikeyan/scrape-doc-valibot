@@ -1,0 +1,8 @@
+{
+  "url": "/api/Ipv4Issue/",
+  "next": "/api/Ipv6Action/",
+  "prev": "/api/Ipv4Action/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

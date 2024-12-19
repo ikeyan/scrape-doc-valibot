@@ -1,0 +1,22 @@
+{
+  "url": "/api/notSize/",
+  "next": "/api/notValue/",
+  "prev": "/api/notLength/",
+  "links": [
+    "/api/SizeInput/",
+    "/api/ErrorMessage/",
+    "/api/NotSizeIssue/",
+    "/api/NotSizeAction/",
+    "/api/any/",
+    "/api/blob/",
+    "/api/custom/",
+    "/api/file/",
+    "/api/instance/",
+    "/api/map/",
+    "/api/set/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

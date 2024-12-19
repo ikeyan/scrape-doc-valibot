@@ -1,0 +1,8 @@
+{
+  "url": "/api/InstanceIssue/",
+  "next": "/api/InstanceSchema/",
+  "prev": "/api/InferVariantIssue/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

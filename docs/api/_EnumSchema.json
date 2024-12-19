@@ -1,0 +1,13 @@
+{
+  "url": "/api/EnumSchema/",
+  "next": "/api/ErrorMessage/",
+  "prev": "/api/EnumIssue/",
+  "links": [
+    "/api/Enum/",
+    "/api/ErrorMessage/",
+    "/api/EnumIssue/",
+    "/api/BaseSchema/",
+    "/api/EnumIssue/",
+    "/api/enum/"
+  ]
+}

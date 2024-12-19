@@ -1,0 +1,10 @@
+{
+  "url": "/api/InferObjectIssue/",
+  "next": "/api/InferObjectOutput/",
+  "prev": "/api/InferObjectInput/",
+  "links": [
+    "/api/ObjectEntries/",
+    "/api/ObjectEntriesAsync/",
+    "/api/InferIssue/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "/api/endsWith/",
+  "next": "/api/everyItem/",
+  "prev": "/api/empty/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/EndsWithIssue/",
+    "/api/EndsWithAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

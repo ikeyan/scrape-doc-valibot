@@ -1,0 +1,12 @@
+{
+  "url": "/api/ImeiAction/",
+  "next": "/api/ImeiIssue/",
+  "prev": "/api/HexColorIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/ImeiIssue/",
+    "/api/BaseValidation/",
+    "/api/ImeiIssue/",
+    "/api/imei/"
+  ]
+}

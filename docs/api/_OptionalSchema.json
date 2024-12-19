@@ -1,0 +1,15 @@
+{
+  "url": "/api/OptionalSchema/",
+  "next": "/api/OptionalSchemaAsync/",
+  "prev": "/api/OctalIssue/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/Default/",
+    "/api/BaseSchema/",
+    "/api/InferInput/",
+    "/api/InferOptionalOutput/",
+    "/api/InferIssue/",
+    "/api/optional/"
+  ]
+}

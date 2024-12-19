@@ -1,0 +1,8 @@
+{
+  "url": "/api/TupleIssue/",
+  "next": "/api/TupleItems/",
+  "prev": "/api/TrimStartAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

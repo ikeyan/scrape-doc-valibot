@@ -1,0 +1,17 @@
+{
+  "url": "/api/NonOptionalSchema/",
+  "next": "/api/NonOptionalSchemaAsync/",
+  "prev": "/api/NonOptionalIssue/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/NonOptionalIssue/",
+    "/api/BaseSchema/",
+    "/api/InferNonOptionalInput/",
+    "/api/InferNonOptionalOutput/",
+    "/api/NonOptionalIssue/",
+    "/api/InferNonOptionalIssue/",
+    "/api/nonOptional/"
+  ]
+}

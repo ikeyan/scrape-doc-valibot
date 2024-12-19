@@ -1,0 +1,28 @@
+{
+  "url": "/api/ArgsAction/",
+  "next": "/api/ArrayInput/",
+  "prev": "/api/AnySchema/",
+  "links": [
+    "/api/LooseTupleSchema/",
+    "/api/TupleItems/",
+    "/api/ErrorMessage/",
+    "/api/LooseTupleIssue/",
+    "/api/StrictTupleSchema/",
+    "/api/TupleItems/",
+    "/api/ErrorMessage/",
+    "/api/StrictTupleIssue/",
+    "/api/TupleSchema/",
+    "/api/TupleItems/",
+    "/api/ErrorMessage/",
+    "/api/TupleIssue/",
+    "/api/TupleWithRestSchema/",
+    "/api/TupleItems/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/TupleWithRestIssue/",
+    "/api/BaseTransformation/",
+    "/api/InferInput/",
+    "/api/args/"
+  ]
+}

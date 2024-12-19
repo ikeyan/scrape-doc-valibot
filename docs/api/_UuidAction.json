@@ -1,0 +1,12 @@
+{
+  "url": "/api/UuidAction/",
+  "next": "/api/UuidIssue/",
+  "prev": "/api/UrlIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/UuidIssue/",
+    "/api/BaseValidation/",
+    "/api/UuidIssue/",
+    "/api/uuid/"
+  ]
+}

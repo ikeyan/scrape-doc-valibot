@@ -1,0 +1,33 @@
+{
+  "url": "/guides/objects/",
+  "next": "/guides/arrays/",
+  "prev": "/guides/issues/",
+  "links": [
+    "/api/object/",
+    "/api/record/",
+    "/api/object/",
+    "/api/record/",
+    "/api/object/",
+    "/api/looseObject/",
+    "/api/strictObject/",
+    "/api/looseObject/",
+    "/api/strictObject/",
+    "/api/objectWithRest/",
+    "/api/check/",
+    "/api/forward/",
+    "/api/partialCheck/",
+    "/api/check/",
+    "/api/record/",
+    "/api/string/",
+    "/api/custom/",
+    "/api/enum/",
+    "/api/literal/",
+    "/api/picklist/",
+    "/api/union/",
+    "/api/record/",
+    "/api/object/",
+    "/api/entriesFromList/",
+    "/api/check/",
+    "/api/forward/"
+  ]
+}

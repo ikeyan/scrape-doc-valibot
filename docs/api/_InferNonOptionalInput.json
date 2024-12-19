@@ -1,0 +1,6 @@
+{
+  "url": "/api/InferNonOptionalInput/",
+  "next": "/api/InferNonOptionalIssue/",
+  "prev": "/api/InferNonNullishOutput/",
+  "links": []
+}

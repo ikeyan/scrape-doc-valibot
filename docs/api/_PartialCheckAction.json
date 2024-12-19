@@ -1,0 +1,14 @@
+{
+  "url": "/api/PartialCheckAction/",
+  "next": "/api/PartialCheckActionAsync/",
+  "prev": "/api/ParserAsync/",
+  "links": [
+    "/api/PartialInput/",
+    "/api/PartialInput/",
+    "/api/ErrorMessage/",
+    "/api/PartialCheckIssue/",
+    "/api/BaseValidation/",
+    "/api/PartialCheckIssue/",
+    "/api/partialCheck/"
+  ]
+}

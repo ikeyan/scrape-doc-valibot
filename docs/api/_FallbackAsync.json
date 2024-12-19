@@ -1,0 +1,19 @@
+{
+  "url": "/api/FallbackAsync/",
+  "next": "/api/FileIssue/",
+  "prev": "/api/Fallback/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/InferOutput/",
+    "/api/OutputDataset/",
+    "/api/InferOutput/",
+    "/api/InferIssue/",
+    "/api/Config/",
+    "/api/InferIssue/",
+    "/api/MaybePromise/",
+    "/api/InferOutput/"
+  ]
+}

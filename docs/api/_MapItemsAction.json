@@ -1,0 +1,10 @@
+{
+  "url": "/api/MapItemsAction/",
+  "next": "/api/MapPathItem/",
+  "prev": "/api/MapIssue/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/BaseTransformation/",
+    "/api/mapItems/"
+  ]
+}

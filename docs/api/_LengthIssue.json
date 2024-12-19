@@ -1,0 +1,9 @@
+{
+  "url": "/api/LengthIssue/",
+  "next": "/api/Literal/",
+  "prev": "/api/LengthInput/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/BaseIssue/"
+  ]
+}

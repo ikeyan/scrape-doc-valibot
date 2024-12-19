@@ -1,0 +1,6 @@
+{
+  "url": "/api/InferFallbacks/",
+  "next": "/api/InferInput/",
+  "prev": "/api/InferFallback/",
+  "links": []
+}

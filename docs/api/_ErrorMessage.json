@@ -1,0 +1,8 @@
+{
+  "url": "/api/ErrorMessage/",
+  "next": "/api/EveryItemAction/",
+  "prev": "/api/EnumSchema/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

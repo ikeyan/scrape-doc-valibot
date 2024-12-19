@@ -1,0 +1,14 @@
+{
+  "url": "/api/SafeParserAsync/",
+  "next": "/api/SafeParseResult/",
+  "prev": "/api/SafeParser/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/Config/",
+    "/api/InferIssue/",
+    "/api/SafeParseResult/"
+  ]
+}

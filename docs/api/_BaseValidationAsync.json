@@ -1,0 +1,17 @@
+{
+  "url": "/api/BaseValidationAsync/",
+  "next": "/api/BicAction/",
+  "prev": "/api/BaseValidation/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/BaseValidation/",
+    "/api/BaseValidation/",
+    "/api/BaseIssue/",
+    "/api/BaseIssue/",
+    "/api/OutputDataset/",
+    "/api/BaseIssue/",
+    "/api/Config/",
+    "/api/OutputDataset/",
+    "/api/BaseIssue/"
+  ]
+}

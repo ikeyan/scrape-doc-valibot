@@ -1,0 +1,8 @@
+{
+  "url": "/api/NullIssue/",
+  "next": "/api/NullSchema/",
+  "prev": "/api/NullishSchemaAsync/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

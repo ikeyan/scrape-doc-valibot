@@ -1,0 +1,14 @@
+{
+  "url": "/api/CheckItemsAction/",
+  "next": "/api/CheckItemsActionAsync/",
+  "prev": "/api/CheckIssue/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/ErrorMessage/",
+    "/api/CheckItemsIssue/",
+    "/api/BaseValidation/",
+    "/api/CheckItemsIssue/",
+    "/api/checkItems/",
+    "/api/ArrayRequirement/"
+  ]
+}

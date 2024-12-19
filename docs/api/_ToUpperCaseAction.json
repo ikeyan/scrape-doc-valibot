@@ -1,0 +1,9 @@
+{
+  "url": "/api/ToUpperCaseAction/",
+  "next": "/api/TransformAction/",
+  "prev": "/api/ToMinValueAction/",
+  "links": [
+    "/api/BaseTransformation/",
+    "/api/toUpperCase/"
+  ]
+}

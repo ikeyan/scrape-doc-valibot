@@ -1,0 +1,12 @@
+{
+  "url": "/api/MinGraphemesAction/",
+  "next": "/api/MinGraphemesIssue/",
+  "prev": "/api/MinBytesIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MinGraphemesAction/",
+    "/api/BaseValidation/",
+    "/api/MinGraphemesAction/",
+    "/api/minGraphemes/"
+  ]
+}

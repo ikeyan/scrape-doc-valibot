@@ -1,0 +1,8 @@
+{
+  "url": "/api/Cuid2Issue/",
+  "next": "/api/CustomIssue/",
+  "prev": "/api/Cuid2Action/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

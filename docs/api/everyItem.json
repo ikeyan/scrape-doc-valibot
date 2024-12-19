@@ -1,0 +1,21 @@
+{
+  "url": "/api/everyItem/",
+  "next": "/api/excludes/",
+  "prev": "/api/endsWith/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/ErrorMessage/",
+    "/api/EveryItemIssue/",
+    "/api/ArrayRequirement/",
+    "/api/EveryItemAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

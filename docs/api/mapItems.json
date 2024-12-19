@@ -1,0 +1,18 @@
+{
+  "url": "/api/mapItems/",
+  "next": "/api/maxBytes/",
+  "prev": "/api/mac64/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/MapItemsAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

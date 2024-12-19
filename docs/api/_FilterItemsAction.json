@@ -1,0 +1,11 @@
+{
+  "url": "/api/FilterItemsAction/",
+  "next": "/api/FindItemAction/",
+  "prev": "/api/FileSchema/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/BaseTransformation/",
+    "/api/filterItems/",
+    "/api/ArrayRequirement/"
+  ]
+}

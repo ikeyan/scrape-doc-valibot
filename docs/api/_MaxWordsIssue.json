@@ -1,0 +1,8 @@
+{
+  "url": "/api/MaxWordsIssue/",
+  "next": "/api/MaybePromise/",
+  "prev": "/api/MaxWordsAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

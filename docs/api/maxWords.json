@@ -1,0 +1,17 @@
+{
+  "url": "/api/maxWords/",
+  "next": "/api/metadata/",
+  "prev": "/api/maxValue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MaxWordsIssue/",
+    "/api/MaxWordsAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

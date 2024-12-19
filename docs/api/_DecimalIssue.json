@@ -1,0 +1,8 @@
+{
+  "url": "/api/DecimalIssue/",
+  "next": "/api/DeepPickN/",
+  "prev": "/api/DecimalAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

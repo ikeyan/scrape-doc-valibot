@@ -1,0 +1,8 @@
+{
+  "url": "/api/StrictObjectIssue/",
+  "next": "/api/StrictObjectSchema/",
+  "prev": "/api/StartsWithIssue/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

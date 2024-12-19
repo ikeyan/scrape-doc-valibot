@@ -1,0 +1,19 @@
+{
+  "url": "/api/filterItems/",
+  "next": "/api/findItem/",
+  "prev": "/api/excludes/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/ArrayRequirement/",
+    "/api/FilterItemsAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "/api/BaseTransformationAsync/",
+  "next": "/api/BaseValidation/",
+  "prev": "/api/BaseTransformation/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/BaseTransformation/",
+    "/api/BaseTransformation/",
+    "/api/BaseIssue/",
+    "/api/BaseIssue/",
+    "/api/SuccessDataset/",
+    "/api/Config/",
+    "/api/BaseIssue/",
+    "/api/OutputDataset/",
+    "/api/BaseIssue/"
+  ]
+}

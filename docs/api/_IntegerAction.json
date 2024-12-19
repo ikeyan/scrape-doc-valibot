@@ -1,0 +1,12 @@
+{
+  "url": "/api/IntegerAction/",
+  "next": "/api/IntegerIssue/",
+  "prev": "/api/InstanceSchema/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/IntegerIssue/",
+    "/api/BaseValidation/",
+    "/api/IntegerIssue/",
+    "/api/integer/"
+  ]
+}

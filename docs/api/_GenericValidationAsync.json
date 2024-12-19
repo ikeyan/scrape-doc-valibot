@@ -1,0 +1,9 @@
+{
+  "url": "/api/GenericValidationAsync/",
+  "next": "/api/GlobalConfig/",
+  "prev": "/api/GenericValidation/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/BaseValidationAsync/"
+  ]
+}

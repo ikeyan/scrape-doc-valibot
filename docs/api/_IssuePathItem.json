@@ -1,0 +1,12 @@
+{
+  "url": "/api/IssuePathItem/",
+  "next": "/api/LazySchema/",
+  "prev": "/api/IssueDotPath/",
+  "links": [
+    "/api/ArrayPathItem/",
+    "/api/MapPathItem/",
+    "/api/ObjectPathItem/",
+    "/api/SetPathItem/",
+    "/api/UnknownPathItem/"
+  ]
+}

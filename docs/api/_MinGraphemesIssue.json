@@ -1,0 +1,8 @@
+{
+  "url": "/api/MinGraphemesIssue/",
+  "next": "/api/MinLengthAction/",
+  "prev": "/api/MinGraphemesAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

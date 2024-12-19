@@ -1,0 +1,10 @@
+{
+  "url": "/api/SchemaWithFallback/",
+  "next": "/api/SchemaWithFallbackAsync/",
+  "prev": "/api/SafeParseResult/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/Fallback/"
+  ]
+}

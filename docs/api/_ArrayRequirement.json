@@ -1,0 +1,8 @@
+{
+  "url": "/api/ArrayRequirement/",
+  "next": "/api/ArrayRequirementAsync/",
+  "prev": "/api/ArrayPathItem/",
+  "links": [
+    "/api/ArrayInput/"
+  ]
+}

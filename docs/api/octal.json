@@ -1,0 +1,17 @@
+{
+  "url": "/api/octal/",
+  "next": "/api/partialCheck/",
+  "prev": "/api/notWords/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/OctalIssue/",
+    "/api/OctalAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

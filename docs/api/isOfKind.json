@@ -1,0 +1,6 @@
+{
+  "url": "/api/isOfKind/",
+  "next": "/api/isOfType/",
+  "prev": "/api/getDotPath/",
+  "links": []
+}

@@ -1,0 +1,17 @@
+{
+  "url": "/api/regex/",
+  "next": "/api/returns/",
+  "prev": "/api/reduceItems/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/RegexIssue/",
+    "/api/RegexAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url": "/api/IncludesAction/",
+  "next": "/api/IncludesIssue/",
+  "prev": "/api/ImeiIssue/",
+  "links": [
+    "/api/ContentInput/",
+    "/api/ContentRequirement/",
+    "/api/ErrorMessage/",
+    "/api/IncludesIssue/",
+    "/api/BaseValidation/",
+    "/api/IncludesIssue/",
+    "/api/includes/"
+  ]
+}

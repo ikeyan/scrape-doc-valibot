@@ -1,0 +1,11 @@
+{
+  "url": "/api/isValiError/",
+  "next": "/api/ValiError/",
+  "prev": "/api/isOfType/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/"
+  ]
+}

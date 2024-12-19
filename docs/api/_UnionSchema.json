@@ -1,0 +1,18 @@
+{
+  "url": "/api/UnionSchema/",
+  "next": "/api/UnionSchemaAsync/",
+  "prev": "/api/UnionIssue/",
+  "links": [
+    "/api/UnionOptions/",
+    "/api/ErrorMessage/",
+    "/api/UnionIssue/",
+    "/api/InferIssue/",
+    "/api/BaseSchema/",
+    "/api/InferInput/",
+    "/api/InferOutput/",
+    "/api/UnionIssue/",
+    "/api/InferIssue/",
+    "/api/InferIssue/",
+    "/api/union/"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "/api/trim/",
+  "next": "/api/trimEnd/",
+  "prev": "/api/transform/",
+  "links": [
+    "/api/TrimAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

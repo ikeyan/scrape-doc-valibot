@@ -1,0 +1,8 @@
+{
+  "url": "/api/ArrayIssue/",
+  "next": "/api/ArrayPathItem/",
+  "prev": "/api/ArrayInput/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

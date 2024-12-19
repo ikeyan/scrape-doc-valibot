@@ -1,0 +1,8 @@
+{
+  "url": "/api/FileIssue/",
+  "next": "/api/FileSchema/",
+  "prev": "/api/FallbackAsync/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

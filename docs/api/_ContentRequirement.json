@@ -1,0 +1,8 @@
+{
+  "url": "/api/ContentRequirement/",
+  "next": "/api/CreditCardAction/",
+  "prev": "/api/ContentInput/",
+  "links": [
+    "/api/ContentInput/"
+  ]
+}

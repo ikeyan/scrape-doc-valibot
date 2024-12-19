@@ -1,0 +1,10 @@
+{
+  "url": "/api/UnionOptions/",
+  "next": "/api/UnionOptionsAsync/",
+  "prev": "/api/UndefinedSchema/",
+  "links": [
+    "/api/MaybeReadonly/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/"
+  ]
+}

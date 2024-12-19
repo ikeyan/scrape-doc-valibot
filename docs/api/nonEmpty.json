@@ -1,0 +1,21 @@
+{
+  "url": "/api/nonEmpty/",
+  "next": "/api/normalize/",
+  "prev": "/api/nanoid/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/NonEmptyIssue/",
+    "/api/NonEmptyAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/string/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "url": "/api/LooseObjectSchema/",
+  "next": "/api/LooseObjectSchemaAsync/",
+  "prev": "/api/LooseObjectIssue/",
+  "links": [
+    "/api/ObjectEntries/",
+    "/api/ErrorMessage/",
+    "/api/LooseObjectIssue/",
+    "/api/BaseSchema/",
+    "/api/InferObjectInput/",
+    "/api/InferObjectOutput/",
+    "/api/LooseObjectIssue/",
+    "/api/InferObjectIssue/",
+    "/api/looseObject/"
+  ]
+}

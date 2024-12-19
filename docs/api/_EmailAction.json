@@ -1,0 +1,12 @@
+{
+  "url": "/api/EmailAction/",
+  "next": "/api/EmailIssue/",
+  "prev": "/api/DigitsIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/EmailIssue/",
+    "/api/BaseValidation/",
+    "/api/EmailIssue/",
+    "/api/email/"
+  ]
+}

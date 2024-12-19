@@ -1,0 +1,12 @@
+{
+  "url": "/api/NumberSchema/",
+  "next": "/api/ObjectEntries/",
+  "prev": "/api/NumberIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NumberIssue/",
+    "/api/BaseSchema/",
+    "/api/NumberIssue/",
+    "/api/number/"
+  ]
+}

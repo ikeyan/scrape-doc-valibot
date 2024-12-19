@@ -1,0 +1,21 @@
+{
+  "url": "/api/notLength/",
+  "next": "/api/notSize/",
+  "prev": "/api/notGraphemes/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/NotLengthIssue/",
+    "/api/NotLengthAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/string/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

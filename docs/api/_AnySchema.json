@@ -1,0 +1,9 @@
+{
+  "url": "/api/AnySchema/",
+  "next": "/api/ArgsAction/",
+  "prev": "/api/variantAsync/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/any/"
+  ]
+}

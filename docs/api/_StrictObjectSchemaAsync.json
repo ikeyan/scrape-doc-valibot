@@ -1,0 +1,16 @@
+{
+  "url": "/api/StrictObjectSchemaAsync/",
+  "next": "/api/StrictTupleIssue/",
+  "prev": "/api/StrictObjectSchema/",
+  "links": [
+    "/api/ObjectEntriesAsync/",
+    "/api/ErrorMessage/",
+    "/api/StrictObjectIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/InferObjectInput/",
+    "/api/InferObjectOutput/",
+    "/api/StrictObjectIssue/",
+    "/api/InferObjectIssue/",
+    "/api/strictObjectAsync/"
+  ]
+}

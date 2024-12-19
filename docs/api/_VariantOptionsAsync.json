@@ -1,0 +1,10 @@
+{
+  "url": "/api/VariantOptionsAsync/",
+  "next": "/api/VariantSchema/",
+  "prev": "/api/VariantOptions/",
+  "links": [
+    "/api/MaybeReadonly/",
+    "/api/VariantOption/",
+    "/api/VariantOptionAsync/"
+  ]
+}

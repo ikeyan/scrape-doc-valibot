@@ -1,0 +1,12 @@
+{
+  "url": "/api/MultipleOfAction/",
+  "next": "/api/MultipleOfIssue/",
+  "prev": "/api/MinWordsIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MultipleOfAction/",
+    "/api/BaseValidation/",
+    "/api/MultipleOfAction/",
+    "/api/multipleOf/"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "url": "/api/MinBytesAction/",
+  "next": "/api/MinBytesIssue/",
+  "prev": "/api/MimeTypeIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MinBytesAction/",
+    "/api/BaseValidation/",
+    "/api/MinBytesAction/",
+    "/api/minBytes/"
+  ]
+}

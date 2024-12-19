@@ -1,0 +1,15 @@
+{
+  "url": "/api/InferOptionalOutput/",
+  "next": "/api/InferOutput/",
+  "prev": "/api/InferObjectOutput/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/DefaultAsync/",
+    "/api/InferOutput/",
+    "/api/NonOptional/",
+    "/api/InferOutput/"
+  ]
+}

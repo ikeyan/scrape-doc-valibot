@@ -1,0 +1,12 @@
+{
+  "url": "/api/EmojiAction/",
+  "next": "/api/EmojiIssue/",
+  "prev": "/api/EmailIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/EmojiIssue/",
+    "/api/BaseValidation/",
+    "/api/EmojiIssue/",
+    "/api/emoji/"
+  ]
+}

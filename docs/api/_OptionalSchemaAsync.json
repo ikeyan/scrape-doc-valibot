@@ -1,0 +1,17 @@
+{
+  "url": "/api/OptionalSchemaAsync/",
+  "next": "/api/OutputDataset/",
+  "prev": "/api/OptionalSchema/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/DefaultAsync/",
+    "/api/BaseSchemaAsync/",
+    "/api/InferInput/",
+    "/api/InferOptionalOutput/",
+    "/api/InferIssue/",
+    "/api/optionalAsync/"
+  ]
+}

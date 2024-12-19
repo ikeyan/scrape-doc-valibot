@@ -1,0 +1,22 @@
+{
+  "url": "/api/minSize/",
+  "next": "/api/minValue/",
+  "prev": "/api/minLength/",
+  "links": [
+    "/api/SizeInput/",
+    "/api/ErrorMessage/",
+    "/api/MinSizeIssue/",
+    "/api/MinSizeAction/",
+    "/api/any/",
+    "/api/blob/",
+    "/api/custom/",
+    "/api/file/",
+    "/api/instance/",
+    "/api/map/",
+    "/api/set/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

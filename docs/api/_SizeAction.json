@@ -1,0 +1,13 @@
+{
+  "url": "/api/SizeAction/",
+  "next": "/api/SizeInput/",
+  "prev": "/api/SetSchemaAsync/",
+  "links": [
+    "/api/SizeInput/",
+    "/api/ErrorMessage/",
+    "/api/SizeIssue/",
+    "/api/BaseValidation/",
+    "/api/SizeIssue/",
+    "/api/size/"
+  ]
+}

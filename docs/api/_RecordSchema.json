@@ -1,0 +1,20 @@
+{
+  "url": "/api/RecordSchema/",
+  "next": "/api/RecordSchemaAsync/",
+  "prev": "/api/RecordIssue/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/RecordIssue/",
+    "/api/BaseSchema/",
+    "/api/InferRecordInput/",
+    "/api/InferRecordOutput/",
+    "/api/RecordIssue/",
+    "/api/InferIssue/",
+    "/api/InferIssue/",
+    "/api/record/"
+  ]
+}

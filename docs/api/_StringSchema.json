@@ -1,0 +1,11 @@
+{
+  "url": "/api/StringSchema/",
+  "next": "/api/SuccessDataset/",
+  "prev": "/api/StringIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BaseSchema/",
+    "/api/StringIssue/",
+    "/api/string/"
+  ]
+}

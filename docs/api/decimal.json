@@ -1,0 +1,17 @@
+{
+  "url": "/api/decimal/",
+  "next": "/api/description/",
+  "prev": "/api/cuid2/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/DecimalIssue/",
+    "/api/DecimalAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

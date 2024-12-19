@@ -1,0 +1,8 @@
+{
+  "url": "/api/IsoTimestampIssue/",
+  "next": "/api/IsoWeekAction/",
+  "prev": "/api/IsoTimestampAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

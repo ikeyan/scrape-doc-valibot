@@ -1,0 +1,12 @@
+{
+  "url": "/api/SomeItemAction/",
+  "next": "/api/SomeItemIssue/",
+  "prev": "/api/SizeIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/SomeItemIssue/",
+    "/api/BaseValidation/",
+    "/api/SomeItemIssue/",
+    "/api/someItem/"
+  ]
+}

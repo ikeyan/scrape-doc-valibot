@@ -1,0 +1,17 @@
+{
+  "url": "/api/InferMapOutput/",
+  "next": "/api/InferNonNullableInput/",
+  "prev": "/api/InferMapInput/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/InferOutput/",
+    "/api/InferOutput/"
+  ]
+}

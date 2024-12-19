@@ -1,0 +1,15 @@
+{
+  "url": "/api/toLowerCase/",
+  "next": "/api/toMaxValue/",
+  "prev": "/api/title/",
+  "links": [
+    "/api/ToLowerCaseAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

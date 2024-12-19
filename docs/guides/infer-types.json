@@ -1,0 +1,19 @@
+{
+  "url": "/guides/infer-types/",
+  "next": "/guides/methods/",
+  "prev": "/guides/parse-data/",
+  "links": [
+    "/api/InferInput/",
+    "/api/optional/",
+    "/api/nullable/",
+    "/api/nullish/",
+    "/api/undefinedable/",
+    "/api/brand/",
+    "/api/readonly/",
+    "/api/transform/",
+    "/api/parse/",
+    "/api/safeParse/",
+    "/api/InferOutput/",
+    "/api/InferIssue/"
+  ]
+}

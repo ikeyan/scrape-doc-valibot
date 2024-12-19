@@ -1,0 +1,16 @@
+{
+  "url": "/api/Default/",
+  "next": "/api/DefaultAsync/",
+  "prev": "/api/DeepPickN/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/MaybeReadonly/",
+    "/api/InferInput/",
+    "/api/UnknownDataset/",
+    "/api/Config/",
+    "/api/InferIssue/",
+    "/api/MaybeReadonly/",
+    "/api/InferInput/"
+  ]
+}

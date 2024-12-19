@@ -1,0 +1,9 @@
+{
+  "url": "/api/GenericSchema/",
+  "next": "/api/GenericSchemaAsync/",
+  "prev": "/api/GenericMetadata/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/BaseSchema/"
+  ]
+}

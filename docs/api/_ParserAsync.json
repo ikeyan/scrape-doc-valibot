@@ -1,0 +1,14 @@
+{
+  "url": "/api/ParserAsync/",
+  "next": "/api/PartialCheckAction/",
+  "prev": "/api/Parser/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/Config/",
+    "/api/InferIssue/",
+    "/api/InferOutput/"
+  ]
+}

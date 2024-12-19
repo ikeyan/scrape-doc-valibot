@@ -1,0 +1,12 @@
+{
+  "url": "/api/DateSchema/",
+  "next": "/api/DecimalAction/",
+  "prev": "/api/DateIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/DateIssue/",
+    "/api/BaseSchema/",
+    "/api/DateIssue/",
+    "/api/date/"
+  ]
+}

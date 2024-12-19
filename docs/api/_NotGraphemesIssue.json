@@ -1,0 +1,8 @@
+{
+  "url": "/api/NotGraphemesIssue/",
+  "next": "/api/NotLengthAction/",
+  "prev": "/api/NotGraphemesAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

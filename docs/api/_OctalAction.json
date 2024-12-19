@@ -1,0 +1,12 @@
+{
+  "url": "/api/OctalAction/",
+  "next": "/api/OctalIssue/",
+  "prev": "/api/ObjectWithRestSchemaAsync/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/OctalIssue/",
+    "/api/BaseValidation/",
+    "/api/OctalIssue/",
+    "/api/octal/"
+  ]
+}

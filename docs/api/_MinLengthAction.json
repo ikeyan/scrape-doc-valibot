@@ -1,0 +1,13 @@
+{
+  "url": "/api/MinLengthAction/",
+  "next": "/api/MinLengthIssue/",
+  "prev": "/api/MinGraphemesIssue/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/MinLengthIssue/",
+    "/api/BaseValidation/",
+    "/api/MinLengthIssue/",
+    "/api/minLength/"
+  ]
+}

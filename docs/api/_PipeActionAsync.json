@@ -1,0 +1,10 @@
+{
+  "url": "/api/PipeActionAsync/",
+  "next": "/api/PipeItem/",
+  "prev": "/api/PipeAction/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/BaseValidationAsync/",
+    "/api/BaseTransformationAsync/"
+  ]
+}

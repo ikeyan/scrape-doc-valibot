@@ -1,0 +1,8 @@
+{
+  "url": "/api/Base64Issue/",
+  "next": "/api/BaseIssue/",
+  "prev": "/api/Base64Action/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

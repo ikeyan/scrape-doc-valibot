@@ -1,0 +1,12 @@
+{
+  "url": "/api/BlobSchema/",
+  "next": "/api/BooleanIssue/",
+  "prev": "/api/BlobIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BlobIssue/",
+    "/api/BaseSchema/",
+    "/api/BlobIssue/",
+    "/api/blob/"
+  ]
+}

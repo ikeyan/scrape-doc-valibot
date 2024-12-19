@@ -1,0 +1,13 @@
+{
+  "url": "/api/PicklistSchema/",
+  "next": "/api/PipeAction/",
+  "prev": "/api/PicklistIssue/",
+  "links": [
+    "/api/PicklistOptions/",
+    "/api/ErrorMessage/",
+    "/api/PicklistIssue/",
+    "/api/BaseSchema/",
+    "/api/PicklistIssue/",
+    "/api/picklist/"
+  ]
+}

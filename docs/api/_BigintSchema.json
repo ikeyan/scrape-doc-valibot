@@ -1,0 +1,12 @@
+{
+  "url": "/api/BigintSchema/",
+  "next": "/api/BlobIssue/",
+  "prev": "/api/BigintIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BigintIssue/",
+    "/api/BaseSchema/",
+    "/api/BigintIssue/",
+    "/api/bigint/"
+  ]
+}

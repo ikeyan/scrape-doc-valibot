@@ -1,0 +1,8 @@
+{
+  "url": "/api/EmailIssue/",
+  "next": "/api/EmojiAction/",
+  "prev": "/api/EmailAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

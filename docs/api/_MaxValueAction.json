@@ -1,0 +1,13 @@
+{
+  "url": "/api/MaxValueAction/",
+  "next": "/api/MaxValueIssue/",
+  "prev": "/api/MaxSizeIssue/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/ErrorMessage/",
+    "/api/MaxValueIssue/",
+    "/api/BaseValidation/",
+    "/api/MaxValueIssue/",
+    "/api/maxValue/"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "url": "/api/ValiError/",
+  "next": "/api/argsAsync/",
+  "prev": "/api/isValiError/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/"
+  ]
+}

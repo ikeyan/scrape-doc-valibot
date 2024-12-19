@@ -1,0 +1,10 @@
+{
+  "url": "/api/InferVariantIssue/",
+  "next": "/api/InstanceIssue/",
+  "prev": "/api/InferTupleOutput/",
+  "links": [
+    "/api/VariantOptions/",
+    "/api/VariantOptionsAsync/",
+    "/api/InferIssue/"
+  ]
+}

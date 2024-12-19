@@ -1,0 +1,24 @@
+{
+  "url": "/api/MapSchemaAsync/",
+  "next": "/api/MaxBytesAction/",
+  "prev": "/api/MapSchema/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/MapIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/InferMapInput/",
+    "/api/InferMapOutput/",
+    "/api/MapIssue/",
+    "/api/InferIssue/",
+    "/api/InferIssue/",
+    "/api/mapAsync/"
+  ]
+}

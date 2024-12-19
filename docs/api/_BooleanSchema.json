@@ -1,0 +1,12 @@
+{
+  "url": "/api/BooleanSchema/",
+  "next": "/api/Brand/",
+  "prev": "/api/BooleanIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BooleanIssue/",
+    "/api/BaseSchema/",
+    "/api/BooleanIssue/",
+    "/api/boolean/"
+  ]
+}

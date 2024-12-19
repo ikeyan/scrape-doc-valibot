@@ -1,0 +1,9 @@
+{
+  "url": "/api/getSchemaMessage/",
+  "next": "/api/getSpecificMessage/",
+  "prev": "/api/getGlobalMessage/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BaseIssue/"
+  ]
+}

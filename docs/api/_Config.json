@@ -1,0 +1,9 @@
+{
+  "url": "/api/Config/",
+  "next": "/api/ContentInput/",
+  "prev": "/api/Class/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "url": "/api/SchemaWithPipeAsync/",
+  "next": "/api/SchemaWithRequired/",
+  "prev": "/api/SchemaWithPipe/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/PipeItem/",
+    "/api/BaseIssue/",
+    "/api/PipeItemAsync/",
+    "/api/BaseIssue/",
+    "/api/FirstTupleItem/",
+    "/api/InferInput/",
+    "/api/FirstTupleItem/",
+    "/api/InferOutput/",
+    "/api/LastTupleItem/",
+    "/api/InferIssue/",
+    "/api/UnknownDataset/",
+    "/api/Config/",
+    "/api/BaseIssue/",
+    "/api/OutputDataset/",
+    "/api/InferOutput/",
+    "/api/LastTupleItem/",
+    "/api/InferIssue/"
+  ]
+}

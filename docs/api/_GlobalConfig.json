@@ -1,0 +1,8 @@
+{
+  "url": "/api/GlobalConfig/",
+  "next": "/api/GraphemesAction/",
+  "prev": "/api/GenericValidationAsync/",
+  "links": [
+    "/api/Config/"
+  ]
+}

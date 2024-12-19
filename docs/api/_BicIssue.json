@@ -1,0 +1,8 @@
+{
+  "url": "/api/BicIssue/",
+  "next": "/api/BigintIssue/",
+  "prev": "/api/BicAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

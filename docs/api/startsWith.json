@@ -1,0 +1,17 @@
+{
+  "url": "/api/startsWith/",
+  "next": "/api/title/",
+  "prev": "/api/sortItems/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/StartsWithIssue/",
+    "/api/StartsWithAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

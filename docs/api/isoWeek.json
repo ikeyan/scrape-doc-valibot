@@ -1,0 +1,17 @@
+{
+  "url": "/api/isoWeek/",
+  "next": "/api/length/",
+  "prev": "/api/isoTimestamp/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/IsoWeekIssue/",
+    "/api/IsoWeekAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

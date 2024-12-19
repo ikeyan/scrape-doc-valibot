@@ -1,0 +1,8 @@
+{
+  "url": "/api/FailureDataset/",
+  "next": "/api/Fallback/",
+  "prev": "/api/ExcludesIssue/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

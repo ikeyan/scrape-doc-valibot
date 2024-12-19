@@ -1,0 +1,17 @@
+{
+  "url": "/api/email/",
+  "next": "/api/emoji/",
+  "prev": "/api/digits/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/EmailIssue/",
+    "/api/EmailAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

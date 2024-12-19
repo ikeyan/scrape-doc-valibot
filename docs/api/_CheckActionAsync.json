@@ -1,0 +1,13 @@
+{
+  "url": "/api/CheckActionAsync/",
+  "next": "/api/CheckIssue/",
+  "prev": "/api/CheckAction/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/CheckIssue/",
+    "/api/BaseValidationAsync/",
+    "/api/CheckIssue/",
+    "/api/checkAsync/",
+    "/api/MaybePromise/"
+  ]
+}

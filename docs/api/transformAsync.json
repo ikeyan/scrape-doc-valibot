@@ -1,0 +1,6 @@
+{
+  "url": "/api/transformAsync/",
+  "next": "/api/tupleAsync/",
+  "prev": "/api/strictTupleAsync/",
+  "links": []
+}

@@ -1,0 +1,17 @@
+{
+  "url": "/api/notGraphemes/",
+  "next": "/api/notLength/",
+  "prev": "/api/notBytes/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NotGraphemesIssue/",
+    "/api/NotGraphemesAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

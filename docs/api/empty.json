@@ -1,0 +1,21 @@
+{
+  "url": "/api/empty/",
+  "next": "/api/endsWith/",
+  "prev": "/api/emoji/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/EmptyIssue/",
+    "/api/EmptyAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/string/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

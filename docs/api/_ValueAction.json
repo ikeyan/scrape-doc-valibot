@@ -1,0 +1,13 @@
+{
+  "url": "/api/ValueAction/",
+  "next": "/api/ValueInput/",
+  "prev": "/api/UuidIssue/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/ErrorMessage/",
+    "/api/ValueIssue/",
+    "/api/BaseValidation/",
+    "/api/ValueIssue/",
+    "/api/value/"
+  ]
+}

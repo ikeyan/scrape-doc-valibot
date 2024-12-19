@@ -1,0 +1,18 @@
+{
+  "url": "/api/SchemaWithFallbackAsync/",
+  "next": "/api/SchemaWithoutPipe/",
+  "prev": "/api/SchemaWithFallback/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/FallbackAsync/",
+    "/api/UnknownDataset/",
+    "/api/Config/",
+    "/api/BaseIssue/",
+    "/api/OutputDataset/",
+    "/api/InferOutput/",
+    "/api/InferIssue/"
+  ]
+}

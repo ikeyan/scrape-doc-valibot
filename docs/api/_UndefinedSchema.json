@@ -1,0 +1,12 @@
+{
+  "url": "/api/UndefinedSchema/",
+  "next": "/api/UnionOptions/",
+  "prev": "/api/UndefinedIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/UndefinedIssue/",
+    "/api/BaseSchema/",
+    "/api/UndefinedIssue/",
+    "/api/undefined/"
+  ]
+}

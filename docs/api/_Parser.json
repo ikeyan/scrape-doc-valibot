@@ -1,0 +1,12 @@
+{
+  "url": "/api/Parser/",
+  "next": "/api/ParserAsync/",
+  "prev": "/api/OutputDataset/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/Config/",
+    "/api/InferIssue/",
+    "/api/InferOutput/"
+  ]
+}

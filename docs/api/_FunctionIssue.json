@@ -1,0 +1,8 @@
+{
+  "url": "/api/FunctionIssue/",
+  "next": "/api/FunctionSchema/",
+  "prev": "/api/FlatErrors/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

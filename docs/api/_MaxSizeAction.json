@@ -1,0 +1,13 @@
+{
+  "url": "/api/MaxSizeAction/",
+  "next": "/api/MaxSizeIssue/",
+  "prev": "/api/MaxLengthIssue/",
+  "links": [
+    "/api/SizeInput/",
+    "/api/ErrorMessage/",
+    "/api/MaxSizeIssue/",
+    "/api/BaseValidation/",
+    "/api/MaxSizeIssue/",
+    "/api/maxSize/"
+  ]
+}

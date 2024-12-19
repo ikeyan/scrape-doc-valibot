@@ -1,0 +1,8 @@
+{
+  "url": "/api/setGlobalConfig/",
+  "next": "/api/setGlobalMessage/",
+  "prev": "/api/getSpecificMessage/",
+  "links": [
+    "/api/GlobalConfig/"
+  ]
+}

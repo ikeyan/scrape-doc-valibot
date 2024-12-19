@@ -1,0 +1,17 @@
+{
+  "url": "/api/maxGraphemes/",
+  "next": "/api/maxLength/",
+  "prev": "/api/maxBytes/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MaxGraphemesIssue/",
+    "/api/MaxGraphemesAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

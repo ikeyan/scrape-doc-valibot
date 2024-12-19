@@ -1,0 +1,8 @@
+{
+  "url": "/api/Brand/",
+  "next": "/api/BrandAction/",
+  "prev": "/api/BooleanSchema/",
+  "links": [
+    "/api/BrandName/"
+  ]
+}

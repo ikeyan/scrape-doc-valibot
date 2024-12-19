@@ -1,0 +1,11 @@
+{
+  "url": "/guides/introduction/",
+  "next": "/guides/installation/",
+  "links": [
+    "/thesis.pdf",
+    "/api/parse/",
+    "/api/safeParse/",
+    "/api/is/",
+    "/guides/parse-data/"
+  ]
+}

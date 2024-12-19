@@ -1,0 +1,8 @@
+{
+  "url": "/api/SymbolIssue/",
+  "next": "/api/SymbolSchema/",
+  "prev": "/api/SuccessDataset/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

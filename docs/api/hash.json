@@ -1,0 +1,19 @@
+{
+  "url": "/api/hash/",
+  "next": "/api/hexadecimal/",
+  "prev": "/api/graphemes/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/HashIssue/",
+    "/api/HashType/",
+    "/api/HashType/",
+    "/api/HashAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

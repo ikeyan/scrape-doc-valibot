@@ -1,0 +1,8 @@
+{
+  "url": "/api/BooleanIssue/",
+  "next": "/api/BooleanSchema/",
+  "prev": "/api/BlobSchema/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

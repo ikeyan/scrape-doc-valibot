@@ -1,0 +1,11 @@
+{
+  "url": "/guides/enums/",
+  "next": "/guides/unions/",
+  "prev": "/guides/optionals/",
+  "links": [
+    "/api/enum/",
+    "/api/picklist/",
+    "/api/enum/",
+    "/api/picklist/"
+  ]
+}

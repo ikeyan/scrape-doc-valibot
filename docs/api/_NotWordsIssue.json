@@ -1,0 +1,8 @@
+{
+  "url": "/api/NotWordsIssue/",
+  "next": "/api/NullableSchema/",
+  "prev": "/api/NotWordsAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

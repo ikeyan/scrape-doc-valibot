@@ -1,0 +1,9 @@
+{
+  "url": "/api/ObjectEntries/",
+  "next": "/api/ObjectEntriesAsync/",
+  "prev": "/api/NumberSchema/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/"
+  ]
+}

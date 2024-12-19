@@ -1,0 +1,12 @@
+{
+  "url": "/api/IpAction/",
+  "next": "/api/IpIssue/",
+  "prev": "/api/IntersectSchemaAsync/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/IpIssue/",
+    "/api/BaseValidation/",
+    "/api/IpIssue/",
+    "/api/ip/"
+  ]
+}

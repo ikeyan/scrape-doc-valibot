@@ -1,0 +1,8 @@
+{
+  "url": "/api/EnumIssue/",
+  "next": "/api/EnumSchema/",
+  "prev": "/api/Enum/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "url": "/api/DateIssue/",
+  "next": "/api/DateSchema/",
+  "prev": "/api/CustomSchemaAsync/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

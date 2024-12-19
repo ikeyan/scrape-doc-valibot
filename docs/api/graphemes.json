@@ -1,0 +1,17 @@
+{
+  "url": "/api/graphemes/",
+  "next": "/api/hash/",
+  "prev": "/api/finite/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/GraphemesIssue/",
+    "/api/GraphemesAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

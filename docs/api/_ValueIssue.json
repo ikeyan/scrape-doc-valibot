@@ -1,0 +1,9 @@
+{
+  "url": "/api/ValueIssue/",
+  "next": "/api/VariantIssue/",
+  "prev": "/api/ValueInput/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/BaseIssue/"
+  ]
+}

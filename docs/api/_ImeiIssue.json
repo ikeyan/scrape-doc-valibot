@@ -1,0 +1,8 @@
+{
+  "url": "/api/ImeiIssue/",
+  "next": "/api/IncludesAction/",
+  "prev": "/api/ImeiAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

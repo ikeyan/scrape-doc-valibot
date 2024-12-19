@@ -1,0 +1,17 @@
+{
+  "url": "/api/UndefinedableSchemaAsync/",
+  "next": "/api/UndefinedIssue/",
+  "prev": "/api/UndefinedableSchema/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/DefaultAsync/",
+    "/api/BaseSchemaAsync/",
+    "/api/InferInput/",
+    "/api/InferUndefinedableOutput/",
+    "/api/InferIssue/",
+    "/api/undefinedableAsync/"
+  ]
+}

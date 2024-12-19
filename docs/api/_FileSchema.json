@@ -1,0 +1,12 @@
+{
+  "url": "/api/FileSchema/",
+  "next": "/api/FilterItemsAction/",
+  "prev": "/api/FileIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/FileIssue/",
+    "/api/BaseSchema/",
+    "/api/FileIssue/",
+    "/api/file/"
+  ]
+}

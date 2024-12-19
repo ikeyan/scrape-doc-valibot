@@ -1,0 +1,16 @@
+{
+  "url": "/api/Fallback/",
+  "next": "/api/FallbackAsync/",
+  "prev": "/api/FailureDataset/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/InferOutput/",
+    "/api/OutputDataset/",
+    "/api/InferOutput/",
+    "/api/InferIssue/",
+    "/api/Config/",
+    "/api/InferIssue/",
+    "/api/InferOutput/"
+  ]
+}

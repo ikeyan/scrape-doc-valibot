@@ -1,0 +1,8 @@
+{
+  "url": "/api/HashIssue/",
+  "next": "/api/HashType/",
+  "prev": "/api/HashAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

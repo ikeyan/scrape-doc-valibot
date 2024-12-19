@@ -1,0 +1,22 @@
+{
+  "url": "/api/notValue/",
+  "next": "/api/notWords/",
+  "prev": "/api/notSize/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/ErrorMessage/",
+    "/api/NotValueIssue/",
+    "/api/NotValueAction/",
+    "/api/any/",
+    "/api/bigint/",
+    "/api/boolean/",
+    "/api/custom/",
+    "/api/date/",
+    "/api/number/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

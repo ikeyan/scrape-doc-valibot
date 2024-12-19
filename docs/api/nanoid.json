@@ -1,0 +1,17 @@
+{
+  "url": "/api/nanoid/",
+  "next": "/api/nonEmpty/",
+  "prev": "/api/multipleOf/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NanoIDIssue/",
+    "/api/NanoIDAction/",
+    "/api/length/",
+    "/api/any/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

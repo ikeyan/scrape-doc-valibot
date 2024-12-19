@@ -1,0 +1,14 @@
+{
+  "url": "/api/ExcludesAction/",
+  "next": "/api/ExcludesIssue/",
+  "prev": "/api/EveryItemIssue/",
+  "links": [
+    "/api/ContentInput/",
+    "/api/ContentRequirement/",
+    "/api/ErrorMessage/",
+    "/api/ExcludesIssue/",
+    "/api/BaseValidation/",
+    "/api/ExcludesIssue/",
+    "/api/excludes/"
+  ]
+}

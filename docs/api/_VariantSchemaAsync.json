@@ -1,0 +1,16 @@
+{
+  "url": "/api/VariantSchemaAsync/",
+  "next": "/api/VoidIssue/",
+  "prev": "/api/VariantSchema/",
+  "links": [
+    "/api/VariantOptionsAsync/",
+    "/api/ErrorMessage/",
+    "/api/VariantIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/InferInput/",
+    "/api/InferOutput/",
+    "/api/VariantIssue/",
+    "/api/InferVariantIssue/",
+    "/api/variantAsync/"
+  ]
+}

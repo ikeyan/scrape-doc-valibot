@@ -1,0 +1,8 @@
+{
+  "url": "/api/ContentInput/",
+  "next": "/api/ContentRequirement/",
+  "prev": "/api/Config/",
+  "links": [
+    "/api/MaybeReadonly/"
+  ]
+}

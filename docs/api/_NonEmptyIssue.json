@@ -1,0 +1,9 @@
+{
+  "url": "/api/NonEmptyIssue/",
+  "next": "/api/NonNullable/",
+  "prev": "/api/NonEmptyAction/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/BaseIssue/"
+  ]
+}

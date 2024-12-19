@@ -1,0 +1,17 @@
+{
+  "url": "/api/words/",
+  "next": "/api/deleteGlobalConfig/",
+  "prev": "/api/value/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/WordsIssue/",
+    "/api/WordsAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

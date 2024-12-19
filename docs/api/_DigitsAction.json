@@ -1,0 +1,12 @@
+{
+  "url": "/api/DigitsAction/",
+  "next": "/api/DigitsIssue/",
+  "prev": "/api/DescriptionAction/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/DecimalIssue/",
+    "/api/BaseValidation/",
+    "/api/DigitsIssue/",
+    "/api/digits/"
+  ]
+}

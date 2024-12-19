@@ -1,0 +1,13 @@
+{
+  "url": "/api/BaseIssue/",
+  "next": "/api/BaseMetadata/",
+  "prev": "/api/Base64Issue/",
+  "links": [
+    "/api/Config/",
+    "/api/BaseIssue/",
+    "/api/IssuePathItem/",
+    "/api/IssuePathItem/",
+    "/api/BaseIssue/",
+    "/api/BaseIssue/"
+  ]
+}

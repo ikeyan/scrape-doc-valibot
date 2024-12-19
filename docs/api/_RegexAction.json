@@ -1,0 +1,12 @@
+{
+  "url": "/api/RegexAction/",
+  "next": "/api/RegexIssue/",
+  "prev": "/api/ReduceItemsAction/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/RegexIssue/",
+    "/api/BaseValidation/",
+    "/api/RegexIssue/",
+    "/api/regex/"
+  ]
+}

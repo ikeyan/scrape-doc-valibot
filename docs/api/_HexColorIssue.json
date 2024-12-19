@@ -1,0 +1,8 @@
+{
+  "url": "/api/HexColorIssue/",
+  "next": "/api/ImeiAction/",
+  "prev": "/api/HexColorAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

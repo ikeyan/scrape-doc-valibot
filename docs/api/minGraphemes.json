@@ -1,0 +1,17 @@
+{
+  "url": "/api/minGraphemes/",
+  "next": "/api/minLength/",
+  "prev": "/api/minBytes/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MinGraphemesIssue/",
+    "/api/MinGraphemesAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "url": "/api/HashAction/",
+  "next": "/api/HashIssue/",
+  "prev": "/api/GraphemesIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/HashIssue/",
+    "/api/BaseValidation/",
+    "/api/HashIssue/",
+    "/api/hash/"
+  ]
+}

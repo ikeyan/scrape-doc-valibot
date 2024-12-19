@@ -1,0 +1,15 @@
+{
+  "url": "/api/PartialCheckActionAsync/",
+  "next": "/api/PartialCheckIssue/",
+  "prev": "/api/PartialCheckAction/",
+  "links": [
+    "/api/PartialInput/",
+    "/api/PartialInput/",
+    "/api/ErrorMessage/",
+    "/api/PartialCheckIssue/",
+    "/api/BaseValidationAsync/",
+    "/api/PartialCheckIssue/",
+    "/api/partialCheckAsync/",
+    "/api/MaybePromise/"
+  ]
+}

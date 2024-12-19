@@ -1,0 +1,19 @@
+{
+  "url": "/api/mimeType/",
+  "next": "/api/minBytes/",
+  "prev": "/api/metadata/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MimeTypeIssue/",
+    "/api/MimeTypeAction/",
+    "/api/any/",
+    "/api/blob/",
+    "/api/custom/",
+    "/api/file/",
+    "/api/instance/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

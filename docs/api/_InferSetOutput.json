@@ -1,0 +1,12 @@
+{
+  "url": "/api/InferSetOutput/",
+  "next": "/api/InferTupleInput/",
+  "prev": "/api/InferSetInput/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/InferOutput/"
+  ]
+}

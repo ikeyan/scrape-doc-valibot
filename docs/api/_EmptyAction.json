@@ -1,0 +1,13 @@
+{
+  "url": "/api/EmptyAction/",
+  "next": "/api/EmptyIssue/",
+  "prev": "/api/EmojiIssue/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/EmptyIssue/",
+    "/api/BaseValidation/",
+    "/api/EmptyIssue/",
+    "/api/empty/"
+  ]
+}

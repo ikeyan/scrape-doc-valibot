@@ -1,0 +1,8 @@
+{
+  "url": "/api/LiteralIssue/",
+  "next": "/api/LooseObjectIssue/",
+  "prev": "/api/Literal/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

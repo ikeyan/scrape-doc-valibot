@@ -1,0 +1,21 @@
+{
+  "url": "/api/maxLength/",
+  "next": "/api/maxSize/",
+  "prev": "/api/maxGraphemes/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/MaxLengthIssue/",
+    "/api/MaxLengthAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/string/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "/api/ToMaxValueAction/",
+  "next": "/api/ToMinValueAction/",
+  "prev": "/api/ToLowerCaseAction/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/BaseTransformation/",
+    "/api/toMinValue/"
+  ]
+}

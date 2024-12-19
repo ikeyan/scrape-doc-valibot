@@ -1,0 +1,17 @@
+{
+  "url": "/api/minBytes/",
+  "next": "/api/minGraphemes/",
+  "prev": "/api/mimeType/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MinBytesIssue/",
+    "/api/MinBytesAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

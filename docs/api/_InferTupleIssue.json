@@ -1,0 +1,10 @@
+{
+  "url": "/api/InferTupleIssue/",
+  "next": "/api/InferTupleOutput/",
+  "prev": "/api/InferTupleInput/",
+  "links": [
+    "/api/TupleItems/",
+    "/api/TupleItemsAsync/",
+    "/api/InferIssue/"
+  ]
+}

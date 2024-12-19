@@ -1,0 +1,19 @@
+{
+  "url": "/api/ip/",
+  "next": "/api/ipv4/",
+  "prev": "/api/integer/",
+  "links": [
+    "/api/ipv4/",
+    "/api/ipv6/",
+    "/api/ErrorMessage/",
+    "/api/IpIssue/",
+    "/api/IpAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

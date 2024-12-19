@@ -1,0 +1,8 @@
+{
+  "url": "/api/StrictTupleIssue/",
+  "next": "/api/StrictTupleSchema/",
+  "prev": "/api/StrictObjectSchemaAsync/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

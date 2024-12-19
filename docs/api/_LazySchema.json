@@ -1,0 +1,14 @@
+{
+  "url": "/api/LazySchema/",
+  "next": "/api/LazySchemaAsync/",
+  "prev": "/api/IssuePathItem/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchema/",
+    "/api/InferInput/",
+    "/api/InferOutput/",
+    "/api/InferIssue/",
+    "/api/lazy/"
+  ]
+}

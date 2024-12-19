@@ -1,0 +1,6 @@
+{
+  "url": "/api/deleteGlobalConfig/",
+  "next": "/api/deleteGlobalMessage/",
+  "prev": "/api/words/",
+  "links": []
+}

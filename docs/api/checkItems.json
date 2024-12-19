@@ -1,0 +1,21 @@
+{
+  "url": "/api/checkItems/",
+  "next": "/api/creditCard/",
+  "prev": "/api/check/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/ErrorMessage/",
+    "/api/CheckItemsIssue/",
+    "/api/ArrayRequirement/",
+    "/api/CheckItemsAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

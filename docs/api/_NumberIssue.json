@@ -1,0 +1,8 @@
+{
+  "url": "/api/NumberIssue/",
+  "next": "/api/NumberSchema/",
+  "prev": "/api/NullSchema/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

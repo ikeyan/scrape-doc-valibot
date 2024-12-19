@@ -1,0 +1,8 @@
+{
+  "url": "/api/ArrayInput/",
+  "next": "/api/ArrayIssue/",
+  "prev": "/api/ArgsAction/",
+  "links": [
+    "/api/MaybeReadonly/"
+  ]
+}

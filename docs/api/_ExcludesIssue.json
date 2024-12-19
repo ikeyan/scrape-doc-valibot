@@ -1,0 +1,10 @@
+{
+  "url": "/api/ExcludesIssue/",
+  "next": "/api/FailureDataset/",
+  "prev": "/api/ExcludesAction/",
+  "links": [
+    "/api/ContentInput/",
+    "/api/ContentRequirement/",
+    "/api/BaseIssue/"
+  ]
+}

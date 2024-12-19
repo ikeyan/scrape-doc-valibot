@@ -1,0 +1,13 @@
+{
+  "url": "/api/LengthAction/",
+  "next": "/api/LengthInput/",
+  "prev": "/api/LazySchemaAsync/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/LengthIssue/",
+    "/api/BaseValidation/",
+    "/api/LengthIssue/",
+    "/api/length/"
+  ]
+}

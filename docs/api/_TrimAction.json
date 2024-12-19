@@ -1,0 +1,9 @@
+{
+  "url": "/api/TrimAction/",
+  "next": "/api/TrimEndAction/",
+  "prev": "/api/TransformAction/",
+  "links": [
+    "/api/BaseTransformation/",
+    "/api/trim/"
+  ]
+}

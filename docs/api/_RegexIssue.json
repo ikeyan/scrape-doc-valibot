@@ -1,0 +1,8 @@
+{
+  "url": "/api/RegexIssue/",
+  "next": "/api/ReturnsAction/",
+  "prev": "/api/RegexAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

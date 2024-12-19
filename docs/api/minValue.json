@@ -1,0 +1,22 @@
+{
+  "url": "/api/minValue/",
+  "next": "/api/minWords/",
+  "prev": "/api/minSize/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/ErrorMessage/",
+    "/api/MaxValueIssue/",
+    "/api/MinValueAction/",
+    "/api/any/",
+    "/api/bigint/",
+    "/api/boolean/",
+    "/api/custom/",
+    "/api/date/",
+    "/api/number/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

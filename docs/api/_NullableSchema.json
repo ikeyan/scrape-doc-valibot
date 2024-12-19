@@ -1,0 +1,15 @@
+{
+  "url": "/api/NullableSchema/",
+  "next": "/api/NullableSchemaAsync/",
+  "prev": "/api/NotWordsIssue/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/Default/",
+    "/api/BaseSchema/",
+    "/api/InferInput/",
+    "/api/InferNullableOutput/",
+    "/api/InferIssue/",
+    "/api/nullable/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "/api/bic/",
+  "next": "/api/brand/",
+  "prev": "/api/base64/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BicIssue/",
+    "/api/BicAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

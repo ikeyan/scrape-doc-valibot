@@ -1,0 +1,16 @@
+{
+  "url": "/api/ObjectSchema/",
+  "next": "/api/ObjectSchemaAsync/",
+  "prev": "/api/ObjectPathItem/",
+  "links": [
+    "/api/ObjectEntries/",
+    "/api/ErrorMessage/",
+    "/api/ObjectIssue/",
+    "/api/BaseSchema/",
+    "/api/InferObjectInput/",
+    "/api/InferObjectOutput/",
+    "/api/ObjectIssue/",
+    "/api/InferObjectIssue/",
+    "/api/object/"
+  ]
+}

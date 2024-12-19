@@ -1,0 +1,12 @@
+{
+  "url": "/api/SafeIntegerAction/",
+  "next": "/api/SafeIntegerIssue/",
+  "prev": "/api/ReturnsAction/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/SafeIntegerIssue/",
+    "/api/BaseValidation/",
+    "/api/SafeIntegerIssue/",
+    "/api/safeInteger/"
+  ]
+}

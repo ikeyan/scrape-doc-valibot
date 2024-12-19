@@ -1,0 +1,12 @@
+{
+  "url": "/api/IsoDateTimeAction/",
+  "next": "/api/IsoDateTimeIssue/",
+  "prev": "/api/IsoDateIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/IsoDateTimeIssue/",
+    "/api/BaseValidation/",
+    "/api/IsoDateTimeIssue/",
+    "/api/isoDateTime/"
+  ]
+}

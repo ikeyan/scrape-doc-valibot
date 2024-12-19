@@ -1,0 +1,17 @@
+{
+  "url": "/api/SetSchema/",
+  "next": "/api/SetSchemaAsync/",
+  "prev": "/api/SetIssue/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/SetIssue/",
+    "/api/BaseSchema/",
+    "/api/InferSetInput/",
+    "/api/InferSetOutput/",
+    "/api/SetIssue/",
+    "/api/InferIssue/",
+    "/api/set/"
+  ]
+}

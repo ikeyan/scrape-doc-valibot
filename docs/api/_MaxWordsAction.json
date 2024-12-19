@@ -1,0 +1,12 @@
+{
+  "url": "/api/MaxWordsAction/",
+  "next": "/api/MaxWordsIssue/",
+  "prev": "/api/MaxValueIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MaxWordsIssue/",
+    "/api/BaseValidation/",
+    "/api/MaxWordsIssue/",
+    "/api/maxWords/"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "url": "/api/PartialCheckIssue/",
+  "next": "/api/PartialDataset/",
+  "prev": "/api/PartialCheckActionAsync/",
+  "links": [
+    "/api/PartialInput/",
+    "/api/BaseIssue/"
+  ]
+}

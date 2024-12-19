@@ -1,0 +1,10 @@
+{
+  "url": "/api/ReduceItemsAction/",
+  "next": "/api/RegexAction/",
+  "prev": "/api/RecordSchemaAsync/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/BaseTransformation/",
+    "/api/reduceItems/"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "url": "/api/UlidIssue/",
+  "next": "/api/UndefinedableSchema/",
+  "prev": "/api/UlidAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

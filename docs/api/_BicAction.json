@@ -1,0 +1,11 @@
+{
+  "url": "/api/BicAction/",
+  "next": "/api/BicIssue/",
+  "prev": "/api/BaseValidationAsync/",
+  "links": [
+    "/api/BicIssue/",
+    "/api/BaseValidation/",
+    "/api/BicIssue/",
+    "/api/bic/"
+  ]
+}

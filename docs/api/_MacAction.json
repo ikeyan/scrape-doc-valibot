@@ -1,0 +1,12 @@
+{
+  "url": "/api/MacAction/",
+  "next": "/api/MacIssue/",
+  "prev": "/api/Mac64Issue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MacIssue/",
+    "/api/BaseValidation/",
+    "/api/MacIssue/",
+    "/api/mac/"
+  ]
+}

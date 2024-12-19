@@ -1,0 +1,22 @@
+{
+  "url": "/api/ObjectWithRestSchemaAsync/",
+  "next": "/api/OctalAction/",
+  "prev": "/api/ObjectWithRestSchema/",
+  "links": [
+    "/api/ObjectEntriesAsync/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/ObjectWithRestIssue/",
+    "/api/BaseSchema/",
+    "/api/InferObjectInput/",
+    "/api/InferInput/",
+    "/api/InferObjectOutput/",
+    "/api/InferInput/",
+    "/api/ObjectWithRestIssue/",
+    "/api/InferObjectIssue/",
+    "/api/objectWithRest/"
+  ]
+}

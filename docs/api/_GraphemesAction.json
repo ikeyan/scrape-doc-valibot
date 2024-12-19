@@ -1,0 +1,12 @@
+{
+  "url": "/api/GraphemesAction/",
+  "next": "/api/GraphemesIssue/",
+  "prev": "/api/GlobalConfig/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/GraphemesIssue/",
+    "/api/BaseValidation/",
+    "/api/GraphemesIssue/",
+    "/api/graphemes/"
+  ]
+}

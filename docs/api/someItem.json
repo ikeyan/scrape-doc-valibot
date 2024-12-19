@@ -1,0 +1,21 @@
+{
+  "url": "/api/someItem/",
+  "next": "/api/sortItems/",
+  "prev": "/api/size/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/ErrorMessage/",
+    "/api/SomeItemIssue/",
+    "/api/ArrayRequirement/",
+    "/api/SomeItemAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

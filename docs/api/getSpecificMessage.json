@@ -1,0 +1,10 @@
+{
+  "url": "/api/getSpecificMessage/",
+  "next": "/api/setGlobalConfig/",
+  "prev": "/api/getSchemaMessage/",
+  "links": [
+    "/api/Reference/",
+    "/api/ErrorMessage/",
+    "/api/BaseIssue/"
+  ]
+}

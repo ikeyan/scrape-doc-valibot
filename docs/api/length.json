@@ -1,0 +1,21 @@
+{
+  "url": "/api/length/",
+  "next": "/api/mac/",
+  "prev": "/api/isoWeek/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/LengthIssue/",
+    "/api/LengthAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/string/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

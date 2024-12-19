@@ -1,0 +1,12 @@
+{
+  "url": "/api/FunctionSchema/",
+  "next": "/api/GenericIssue/",
+  "prev": "/api/FunctionIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/FunctionIssue/",
+    "/api/BaseSchema/",
+    "/api/FunctionIssue/",
+    "/api/function/"
+  ]
+}

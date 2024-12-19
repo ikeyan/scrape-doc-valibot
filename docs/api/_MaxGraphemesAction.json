@@ -1,0 +1,12 @@
+{
+  "url": "/api/MaxGraphemesAction/",
+  "next": "/api/MaxGraphemesIssue/",
+  "prev": "/api/MaxBytesIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MaxGraphemesIssue/",
+    "/api/BaseValidation/",
+    "/api/MaxGraphemesIssue/",
+    "/api/maxGraphemes/"
+  ]
+}

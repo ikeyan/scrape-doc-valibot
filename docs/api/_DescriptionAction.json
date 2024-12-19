@@ -1,0 +1,9 @@
+{
+  "url": "/api/DescriptionAction/",
+  "next": "/api/DigitsAction/",
+  "prev": "/api/DefaultValue/",
+  "links": [
+    "/api/BaseMetadata/",
+    "/api/description/"
+  ]
+}

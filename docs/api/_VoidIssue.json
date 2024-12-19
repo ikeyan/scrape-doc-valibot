@@ -1,0 +1,8 @@
+{
+  "url": "/api/VoidIssue/",
+  "next": "/api/VoidSchema/",
+  "prev": "/api/VariantSchemaAsync/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

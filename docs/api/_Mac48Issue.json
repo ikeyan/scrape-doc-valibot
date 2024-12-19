@@ -1,0 +1,8 @@
+{
+  "url": "/api/Mac48Issue/",
+  "next": "/api/Mac64Action/",
+  "prev": "/api/Mac48Action/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

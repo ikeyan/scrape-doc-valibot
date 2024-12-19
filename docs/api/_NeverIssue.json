@@ -1,0 +1,8 @@
+{
+  "url": "/api/NeverIssue/",
+  "next": "/api/NeverSchema/",
+  "prev": "/api/NanSchema/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

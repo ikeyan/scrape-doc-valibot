@@ -1,0 +1,9 @@
+{
+  "url": "/api/UnknownSchema/",
+  "next": "/api/UrlAction/",
+  "prev": "/api/UnknownPathItem/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/unknown/"
+  ]
+}

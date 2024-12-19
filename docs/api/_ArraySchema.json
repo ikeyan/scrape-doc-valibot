@@ -1,0 +1,17 @@
+{
+  "url": "/api/ArraySchema/",
+  "next": "/api/ArraySchemaAsync/",
+  "prev": "/api/ArrayRequirementAsync/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/ArrayIssue/",
+    "/api/BaseSchema/",
+    "/api/InferInput/",
+    "/api/InferOutput/",
+    "/api/ArrayIssue/",
+    "/api/InferIssue/",
+    "/api/array/"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "url": "/api/TrimStartAction/",
+  "next": "/api/TupleIssue/",
+  "prev": "/api/TrimEndAction/",
+  "links": [
+    "/api/BaseTransformation/",
+    "/api/trimStart/"
+  ]
+}

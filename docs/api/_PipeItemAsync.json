@@ -1,0 +1,10 @@
+{
+  "url": "/api/PipeItemAsync/",
+  "next": "/api/PromiseIssue/",
+  "prev": "/api/PipeItem/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/PipeActionAsync/"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "url": "/api/NotValueIssue/",
+  "next": "/api/NotWordsAction/",
+  "prev": "/api/NotValueAction/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/BaseIssue/"
+  ]
+}

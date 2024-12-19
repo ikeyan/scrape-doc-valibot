@@ -1,0 +1,18 @@
+{
+  "url": "/api/reduceItems/",
+  "next": "/api/regex/",
+  "prev": "/api/readonly/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/ReduceItemsAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

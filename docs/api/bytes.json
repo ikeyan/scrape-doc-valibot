@@ -1,0 +1,17 @@
+{
+  "url": "/api/bytes/",
+  "next": "/api/check/",
+  "prev": "/api/brand/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BytesIssue/",
+    "/api/BytesAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "/api/NormalizeAction/",
+  "next": "/api/NormalizeForm/",
+  "prev": "/api/NonOptionalSchemaAsync/",
+  "links": [
+    "/api/NormalizeForm/",
+    "/api/BaseTransformation/",
+    "/api/normalize/"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "url": "/api/EndsWithAction/",
+  "next": "/api/EndsWithIssue/",
+  "prev": "/api/EmptyIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/EndsWithIssue/",
+    "/api/BaseValidation/",
+    "/api/EndsWithIssue/",
+    "/api/endsWith/"
+  ]
+}

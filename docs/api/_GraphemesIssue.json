@@ -1,0 +1,8 @@
+{
+  "url": "/api/GraphemesIssue/",
+  "next": "/api/HashAction/",
+  "prev": "/api/GraphemesAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

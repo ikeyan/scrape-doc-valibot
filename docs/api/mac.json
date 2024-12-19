@@ -1,0 +1,19 @@
+{
+  "url": "/api/mac/",
+  "next": "/api/mac48/",
+  "prev": "/api/length/",
+  "links": [
+    "/api/mac48/",
+    "/api/mac64/",
+    "/api/ErrorMessage/",
+    "/api/MacIssue/",
+    "/api/MacAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "/api/InferNullableOutput/",
+  "next": "/api/InferNullishOutput/",
+  "prev": "/api/InferNonOptionalOutput/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/DefaultAsync/",
+    "/api/InferOutput/",
+    "/api/NonNullable/",
+    "/api/InferOutput/"
+  ]
+}

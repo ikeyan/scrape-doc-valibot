@@ -1,0 +1,21 @@
+{
+  "url": "/api/minLength/",
+  "next": "/api/minSize/",
+  "prev": "/api/minGraphemes/",
+  "links": [
+    "/api/LengthInput/",
+    "/api/ErrorMessage/",
+    "/api/MinLengthIssue/",
+    "/api/MinLengthAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/string/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

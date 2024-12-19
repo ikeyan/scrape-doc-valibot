@@ -1,0 +1,8 @@
+{
+  "url": "/api/BlobIssue/",
+  "next": "/api/BlobSchema/",
+  "prev": "/api/BigintSchema/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

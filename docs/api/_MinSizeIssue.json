@@ -1,0 +1,9 @@
+{
+  "url": "/api/MinSizeIssue/",
+  "next": "/api/MinValueAction/",
+  "prev": "/api/MinSizeAction/",
+  "links": [
+    "/api/SizeInput/",
+    "/api/BaseIssue/"
+  ]
+}

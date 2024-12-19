@@ -1,0 +1,12 @@
+{
+  "url": "/api/IntersectOptionsAsync/",
+  "next": "/api/IntersectSchema/",
+  "prev": "/api/IntersectOptions/",
+  "links": [
+    "/api/MaybeReadonly/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/"
+  ]
+}

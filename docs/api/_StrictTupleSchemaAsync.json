@@ -1,0 +1,16 @@
+{
+  "url": "/api/StrictTupleSchemaAsync/",
+  "next": "/api/StringIssue/",
+  "prev": "/api/StrictTupleSchema/",
+  "links": [
+    "/api/TupleItemsAsync/",
+    "/api/ErrorMessage/",
+    "/api/StrictTupleIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/InferTupleInput/",
+    "/api/InferTupleOutput/",
+    "/api/StrictTupleIssue/",
+    "/api/InferTupleIssue/",
+    "/api/strictTupleAsync/"
+  ]
+}

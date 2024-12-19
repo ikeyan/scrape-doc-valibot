@@ -1,0 +1,19 @@
+{
+  "url": "/api/NonNullishSchemaAsync/",
+  "next": "/api/NonOptional/",
+  "prev": "/api/NonNullishSchema/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/NonNullishIssue/",
+    "/api/BaseSchema/",
+    "/api/InferNonNullishInput/",
+    "/api/InferNonNullishOutput/",
+    "/api/NonNullishIssue/",
+    "/api/InferNonNullishIssue/",
+    "/api/nonNullishAsync/"
+  ]
+}

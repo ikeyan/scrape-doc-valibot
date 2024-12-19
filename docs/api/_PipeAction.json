@@ -1,0 +1,11 @@
+{
+  "url": "/api/PipeAction/",
+  "next": "/api/PipeActionAsync/",
+  "prev": "/api/PicklistSchema/",
+  "links": [
+    "/api/BaseIssue/",
+    "/api/BaseValidation/",
+    "/api/BaseTransformation/",
+    "/api/BaseMetadata/"
+  ]
+}

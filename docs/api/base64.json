@@ -1,0 +1,17 @@
+{
+  "url": "/api/base64/",
+  "next": "/api/bic/",
+  "prev": "/api/args/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/Base64Issue/",
+    "/api/Base64Action/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

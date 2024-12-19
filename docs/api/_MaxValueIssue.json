@@ -1,0 +1,9 @@
+{
+  "url": "/api/MaxValueIssue/",
+  "next": "/api/MaxWordsAction/",
+  "prev": "/api/MaxValueAction/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/BaseIssue/"
+  ]
+}

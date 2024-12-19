@@ -1,0 +1,17 @@
+{
+  "url": "/api/maxBytes/",
+  "next": "/api/maxGraphemes/",
+  "prev": "/api/mapItems/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MaxBytesIssue/",
+    "/api/MaxBytesAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

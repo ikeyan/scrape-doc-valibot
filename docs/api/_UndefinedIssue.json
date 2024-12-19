@@ -1,0 +1,8 @@
+{
+  "url": "/api/UndefinedIssue/",
+  "next": "/api/UndefinedSchema/",
+  "prev": "/api/UndefinedableSchemaAsync/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

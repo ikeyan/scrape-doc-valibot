@@ -1,0 +1,24 @@
+{
+  "url": "/api/RecordSchemaAsync/",
+  "next": "/api/ReduceItemsAction/",
+  "prev": "/api/RecordSchema/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/RecordIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/InferRecordInput/",
+    "/api/InferRecordOutput/",
+    "/api/RecordIssue/",
+    "/api/InferIssue/",
+    "/api/InferIssue/",
+    "/api/recordAsync/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "/api/notBytes/",
+  "next": "/api/notGraphemes/",
+  "prev": "/api/normalize/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NotBytesIssue/",
+    "/api/NotBytesAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

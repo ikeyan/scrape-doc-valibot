@@ -1,0 +1,12 @@
+{
+  "url": "/api/PromiseSchema/",
+  "next": "/api/RawCheckAction/",
+  "prev": "/api/PromiseIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/PromiseIssue/",
+    "/api/BaseSchema/",
+    "/api/PromiseIssue/",
+    "/api/promise/"
+  ]
+}

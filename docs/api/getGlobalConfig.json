@@ -1,0 +1,10 @@
+{
+  "url": "/api/getGlobalConfig/",
+  "next": "/api/getGlobalMessage/",
+  "prev": "/api/deleteSpecificMessage/",
+  "links": [
+    "/api/types/",
+    "/api/Config/",
+    "/api/Config/"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "url": "/api/BytesAction/",
+  "next": "/api/BytesIssue/",
+  "prev": "/api/BrandName/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/BytesIssue/",
+    "/api/BaseValidation/",
+    "/api/BytesIssue/",
+    "/api/bytes/"
+  ]
+}

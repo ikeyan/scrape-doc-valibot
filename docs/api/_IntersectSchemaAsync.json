@@ -1,0 +1,16 @@
+{
+  "url": "/api/IntersectSchemaAsync/",
+  "next": "/api/IpAction/",
+  "prev": "/api/IntersectSchema/",
+  "links": [
+    "/api/IntersectOptionsAsync/",
+    "/api/ErrorMessage/",
+    "/api/IntersectIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/InferIntersectInput/",
+    "/api/InferIntersectOutput/",
+    "/api/IntersectIssue/",
+    "/api/InferIssue/",
+    "/api/intersectAsync/"
+  ]
+}

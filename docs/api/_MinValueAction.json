@@ -1,0 +1,13 @@
+{
+  "url": "/api/MinValueAction/",
+  "next": "/api/MinValueIssue/",
+  "prev": "/api/MinSizeIssue/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/ErrorMessage/",
+    "/api/MinValueAction/",
+    "/api/BaseValidation/",
+    "/api/MinValueAction/",
+    "/api/minValue/"
+  ]
+}

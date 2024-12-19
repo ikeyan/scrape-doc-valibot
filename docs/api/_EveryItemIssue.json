@@ -1,0 +1,10 @@
+{
+  "url": "/api/EveryItemIssue/",
+  "next": "/api/ExcludesAction/",
+  "prev": "/api/EveryItemAction/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/BaseIssue/",
+    "/api/ArrayRequirement/"
+  ]
+}

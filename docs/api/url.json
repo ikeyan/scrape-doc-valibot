@@ -1,0 +1,17 @@
+{
+  "url": "/api/url/",
+  "next": "/api/uuid/",
+  "prev": "/api/ulid/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/UrlIssue/",
+    "/api/UrlAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

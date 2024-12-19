@@ -1,0 +1,20 @@
+{
+  "url": "/api/toMinValue/",
+  "next": "/api/toUpperCase/",
+  "prev": "/api/toMaxValue/",
+  "links": [
+    "/api/ValueInput/",
+    "/api/ToMinValueAction/",
+    "/api/any/",
+    "/api/bigint/",
+    "/api/boolean/",
+    "/api/custom/",
+    "/api/date/",
+    "/api/number/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

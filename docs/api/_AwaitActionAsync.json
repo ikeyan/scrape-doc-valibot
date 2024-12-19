@@ -1,0 +1,9 @@
+{
+  "url": "/api/AwaitActionAsync/",
+  "next": "/api/Base64Action/",
+  "prev": "/api/ArraySchemaAsync/",
+  "links": [
+    "/api/BaseTransformationAsync/",
+    "/api/awaitAsync/"
+  ]
+}

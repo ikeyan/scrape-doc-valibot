@@ -1,0 +1,3 @@
+[submodule "valibot"]
+	path = valibot
+	url = https://github.com/fabian-hiller/valibot.git

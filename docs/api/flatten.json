@@ -1,0 +1,17 @@
+{
+  "url": "/api/flatten/",
+  "next": "/api/forward/",
+  "prev": "/api/fallback/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/InferIssue/",
+    "/api/InferIssue/",
+    "/api/FlatErrors/",
+    "/api/parse/",
+    "/api/parser/",
+    "/api/safeParse/"
+  ]
+}

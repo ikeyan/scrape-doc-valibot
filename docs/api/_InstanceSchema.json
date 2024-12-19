@@ -1,0 +1,13 @@
+{
+  "url": "/api/InstanceSchema/",
+  "next": "/api/IntegerAction/",
+  "prev": "/api/InstanceIssue/",
+  "links": [
+    "/api/Class/",
+    "/api/ErrorMessage/",
+    "/api/InstanceIssue/",
+    "/api/BaseSchema/",
+    "/api/InstanceIssue/",
+    "/api/instance/"
+  ]
+}

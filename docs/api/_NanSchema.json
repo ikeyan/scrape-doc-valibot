@@ -1,0 +1,12 @@
+{
+  "url": "/api/NanSchema/",
+  "next": "/api/NeverIssue/",
+  "prev": "/api/NanIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NanIssue/",
+    "/api/BaseSchema/",
+    "/api/NanIssue/",
+    "/api/nan/"
+  ]
+}

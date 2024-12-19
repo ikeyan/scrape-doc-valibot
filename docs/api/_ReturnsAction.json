@@ -1,0 +1,12 @@
+{
+  "url": "/api/ReturnsAction/",
+  "next": "/api/SafeIntegerAction/",
+  "prev": "/api/RegexIssue/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseTransformation/",
+    "/api/InferOutput/",
+    "/api/returns/"
+  ]
+}

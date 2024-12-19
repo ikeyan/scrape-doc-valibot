@@ -1,0 +1,23 @@
+{
+  "url": "/api/excludes/",
+  "next": "/api/filterItems/",
+  "prev": "/api/everyItem/",
+  "links": [
+    "/api/ContentInput/",
+    "/api/ContentRequirement/",
+    "/api/ContentInput/",
+    "/api/ErrorMessage/",
+    "/api/ExcludesIssue/",
+    "/api/ExcludesAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/string/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

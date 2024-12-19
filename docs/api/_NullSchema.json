@@ -1,0 +1,12 @@
+{
+  "url": "/api/NullSchema/",
+  "next": "/api/NumberIssue/",
+  "prev": "/api/NullIssue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NullIssue/",
+    "/api/BaseSchema/",
+    "/api/NullIssue/",
+    "/api/null/"
+  ]
+}

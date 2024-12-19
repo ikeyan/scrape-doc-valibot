@@ -1,0 +1,10 @@
+{
+  "url": "/api/IncludesIssue/",
+  "next": "/api/InferDefault/",
+  "prev": "/api/IncludesAction/",
+  "links": [
+    "/api/ContentInput/",
+    "/api/ContentRequirement/",
+    "/api/BaseIssue/"
+  ]
+}

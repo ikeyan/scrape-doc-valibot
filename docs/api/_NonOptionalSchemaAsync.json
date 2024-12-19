@@ -1,0 +1,19 @@
+{
+  "url": "/api/NonOptionalSchemaAsync/",
+  "next": "/api/NormalizeAction/",
+  "prev": "/api/NonOptionalSchema/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/ErrorMessage/",
+    "/api/NonOptionalIssue/",
+    "/api/BaseSchema/",
+    "/api/InferNonOptionalInput/",
+    "/api/InferNonOptionalOutput/",
+    "/api/NonOptionalIssue/",
+    "/api/InferNonOptionalIssue/",
+    "/api/nonOptionalAsync/"
+  ]
+}

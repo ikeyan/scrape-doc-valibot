@@ -1,0 +1,12 @@
+{
+  "url": "/api/Mac48Action/",
+  "next": "/api/Mac48Issue/",
+  "prev": "/api/LiteralSchema/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/Mac48Issue/",
+    "/api/BaseValidation/",
+    "/api/Mac48Issue/",
+    "/api/mac48/"
+  ]
+}

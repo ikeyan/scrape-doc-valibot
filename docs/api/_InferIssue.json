@@ -1,0 +1,20 @@
+{
+  "url": "/api/InferIssue/",
+  "next": "/api/InferMapInput/",
+  "prev": "/api/InferIntersectOutput/",
+  "links": [
+    "/api/BaseSchema/",
+    "/api/BaseIssue/",
+    "/api/BaseSchemaAsync/",
+    "/api/BaseIssue/",
+    "/api/BaseValidation/",
+    "/api/BaseIssue/",
+    "/api/BaseValidationAsync/",
+    "/api/BaseIssue/",
+    "/api/BaseTransformation/",
+    "/api/BaseIssue/",
+    "/api/BaseTransformationAsync/",
+    "/api/BaseIssue/",
+    "/api/BaseMetadata/"
+  ]
+}

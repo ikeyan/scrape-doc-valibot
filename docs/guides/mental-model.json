@@ -1,0 +1,14 @@
+{
+  "url": "/guides/mental-model/",
+  "next": "/guides/schemas/",
+  "prev": "/guides/ecosystem/",
+  "links": [
+    "/api/",
+    "/api/parse/",
+    "/api/forward/",
+    "/api/flatten/",
+    "/api/pipe/",
+    "/api/readonly/",
+    "/api/brand/"
+  ]
+}

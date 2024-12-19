@@ -1,0 +1,17 @@
+{
+  "url": "/api/hexColor/",
+  "next": "/api/imei/",
+  "prev": "/api/hexadecimal/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/HexColorIssue/",
+    "/api/HexColorAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

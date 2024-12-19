@@ -1,0 +1,8 @@
+{
+  "url": "/api/RawCheckIssue/",
+  "next": "/api/RawTransformAction/",
+  "prev": "/api/RawCheckActionAsync/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

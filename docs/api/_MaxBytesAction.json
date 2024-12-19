@@ -1,0 +1,12 @@
+{
+  "url": "/api/MaxBytesAction/",
+  "next": "/api/MaxBytesIssue/",
+  "prev": "/api/MapSchemaAsync/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/MaxBytesIssue/",
+    "/api/BaseValidation/",
+    "/api/MaxBytesIssue/",
+    "/api/maxBytes/"
+  ]
+}

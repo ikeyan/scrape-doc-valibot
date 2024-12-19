@@ -1,0 +1,12 @@
+{
+  "url": "/guides/parse-data/",
+  "next": "/guides/infer-types/",
+  "prev": "/guides/pipelines/",
+  "links": [
+    "/api/parse/",
+    "/api/ValiError/",
+    "/api/safeParse/",
+    "/api/is/",
+    "/api/assert/"
+  ]
+}

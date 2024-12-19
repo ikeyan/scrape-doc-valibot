@@ -1,0 +1,13 @@
+{
+  "url": "/guides/internationalization/",
+  "next": "/guides/migrate-to-v0.31.0/",
+  "prev": "/guides/json-schema/",
+  "links": [
+    "/api/setGlobalConfig/",
+    "/api/parse/",
+    "/api/safeParse/",
+    "/api/setGlobalMessage/",
+    "/api/setSchemaMessage/",
+    "/api/setSpecificMessage/"
+  ]
+}

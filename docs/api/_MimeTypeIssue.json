@@ -1,0 +1,8 @@
+{
+  "url": "/api/MimeTypeIssue/",
+  "next": "/api/MinBytesAction/",
+  "prev": "/api/MimeTypeAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

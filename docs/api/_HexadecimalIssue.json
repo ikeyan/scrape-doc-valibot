@@ -1,0 +1,8 @@
+{
+  "url": "/api/HexadecimalIssue/",
+  "next": "/api/HexColorAction/",
+  "prev": "/api/HexadecimalAction/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

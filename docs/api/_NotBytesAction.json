@@ -1,0 +1,12 @@
+{
+  "url": "/api/NotBytesAction/",
+  "next": "/api/NotBytesIssue/",
+  "prev": "/api/NormalizeForm/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NotBytesIssue/",
+    "/api/BaseValidation/",
+    "/api/NotBytesIssue/",
+    "/api/notBytes/"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "/api/notWords/",
+  "next": "/api/octal/",
+  "prev": "/api/notValue/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/NotWordsIssue/",
+    "/api/NotWordsAction/",
+    "/api/any/",
+    "/api/custom/",
+    "/api/string/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

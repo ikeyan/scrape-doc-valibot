@@ -1,0 +1,23 @@
+{
+  "url": "/api/includes/",
+  "next": "/api/integer/",
+  "prev": "/api/imei/",
+  "links": [
+    "/api/ContentInput/",
+    "/api/ContentRequirement/",
+    "/api/ContentInput/",
+    "/api/ErrorMessage/",
+    "/api/IncludesIssue/",
+    "/api/IncludesAction/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/string/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/pipe/",
+    "/api/isOfKind/",
+    "/api/isOfType/"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "url": "/api/ObjectIssue/",
+  "next": "/api/ObjectKeys/",
+  "prev": "/api/ObjectEntriesAsync/",
+  "links": [
+    "/api/BaseIssue/"
+  ]
+}

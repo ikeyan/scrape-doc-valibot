@@ -1,0 +1,24 @@
+{
+  "url": "/api/checkItemsAsync/",
+  "next": "/api/customAsync/",
+  "prev": "/api/checkAsync/",
+  "links": [
+    "/api/ArrayInput/",
+    "/api/ErrorMessage/",
+    "/api/CheckItemsIssue/",
+    "/api/ArrayRequirementAsync/",
+    "/api/CheckItemsActionAsync/",
+    "/api/any/",
+    "/api/array/",
+    "/api/custom/",
+    "/api/instance/",
+    "/api/tuple/",
+    "/api/unknown/",
+    "/api/isOfKind/",
+    "/api/isOfType/",
+    "/api/arrayAsync/",
+    "/api/customAsync/",
+    "/api/pipeAsync/",
+    "/api/tupleAsync/"
+  ]
+}

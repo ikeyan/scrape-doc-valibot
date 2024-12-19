@@ -1,0 +1,12 @@
+{
+  "url": "/api/UrlAction/",
+  "next": "/api/UrlIssue/",
+  "prev": "/api/UnknownSchema/",
+  "links": [
+    "/api/ErrorMessage/",
+    "/api/UrlIssue/",
+    "/api/BaseValidation/",
+    "/api/UrlIssue/",
+    "/api/url/"
+  ]
+}
